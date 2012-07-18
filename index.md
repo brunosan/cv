@@ -1,13 +1,15 @@
-{% include header.html %}
-
+---
+layout: default 
+title: "CV: Bruno Sánchez-Andrade Nuño"
+---
 # Bruno Sánchez-Andrade Nuño, PhD #
-
-
-(417) 278-6676 | [brunosan@gmail.com](brunosan@gmail.com) | [@brunosan](http://twitter.com/brunosan)  
-1803 Biltmore St. NW Apt. 703  Washington DC 20009 USA
-[www.brunosan.eu](www.brunosan.eu)
-
 ***
+<header>
+(417) 728-6676 | [brunosan@gmail.com](brunosan@gmail.com) | [@brunosan](http://twitter.com/brunosan)   
+
+1803 Biltmore St. NW Apt. 703  Washington DC 20009 USA | [www.brunosan.eu](www.brunosan.eu)
+</header>
+
 
 ## Current Position ##
 
@@ -21,12 +23,13 @@ Vulnerability to Climate Change. Responsible for Data Analysis, Visualization an
 * Science & Technology. S&T to inform policies, and policies to implement better S&T.
 * Climate Change. Climate Change Adaptation, and the role of the private sector.
 * Open Source and Open Data, specially their relation with innovation, transparency and accountability.
-***
+
+<hr>
 
 
 ## Work Experience ##
 **Global Adaptation Institute, Washington DC** (2011-2012)
-	>Director of Science and Technology. Develop model to measure Readiness for adaptation projects and Vulnerability to Climate Change. Responsible for Data Analysis, Visualization and Documentation: gain.org
+    Director of Science and Technology. Develop model to measure Readiness for adaptation projects and Vulnerability to Climate Change. Responsible for Data Analysis, Visualization and Documentation: gain.org
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
 > Science and Technology Policy Fellow. Project Management on: NASA decadal studies, Crowdsourcing tools.
@@ -74,7 +77,7 @@ Vulnerability to Climate Change. Responsible for Data Analysis, Visualization an
 
 ###Talks and articles###
 - *2012-2011* Presented the GAIN Index in climate change to: OAS LAC ambassadors, USAID, World Bank, Inter-American Development Bank, Carnegie Endowment, Heritage Foundation, International Adaptation Futures Conference, Tecnológico de Monterrey (Mexico).
-- *2012* US. Department of State tent. Rio+20 UN Conference. Rio de Janeiro, Brazil
+
 - *2012* Training at the Engineers Without Borders Conference. Las Vegas, Nevada.
 - *2011* Panelist at “World Climate Summit”. UNFCCC Conference on Climate Change, Durban, South Africa
 - *2009* 	Invited Lecturer “Cátedra Magistral Mutis”. National University of Colombia, Bogotá. (~1600 attendees)
@@ -106,127 +109,20 @@ Vulnerability to Climate Change. Responsible for Data Analysis, Visualization an
 [More entries at the NASA ADS database]
 
 
-
 ## Technical Skills ##
-###Application Skills ###
-     <table cellspacing="3" cellpadding="3">
-       <tbody>
-         <tr>
-           <td width="150">Photoshop CS5</td>
-           <td><div class="progress-container"><div style="width: 40%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Terminal</td>
-           <td><div class="progress-container"><div style="width: 80%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Office Suites</td>
-           <td><div class="progress-container"><div style="width: 80%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Textmate / Vim</td>
-           <td><div class="progress-container"><div style="width: 75%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Wordpress</td>
-           <td><div class="progress-container"><div style="width: 60%"></div></div></td>
-         </tr>
-         <tr>
-           <td>BlackBoard</td>
-           <td><div class="progress-container"><div style="width: 45%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Omeka</td>
-           <td><div class="progress-container"><div style="width: 25%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Browsers</td>
-           <td><div class="progress-container"><div style="width: 95%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Subversion</td>
-           <td><div class="progress-container"><div style="width: 25%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Git</td>
-           <td><div class="progress-container"><div style="width: 30%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Mercurial</td>
-           <td><div class="progress-container"><div style="width: 20%"></div></div></td>
-         </tr>
-         <tr>
-           <td>*nix, Mac, PC</td>
-           <td><div class="progress-container"><div style="width: 95%"></div></div></td>
-         </tr>
-       </tbody>
-     </table>
-	 
-### Markup, Query, and Programming Languages ###
-     <table cellspacing="3" cellpadding="3">
-       <tbody>
-         <tr>
-           <td width="150">Ruby</td>
-           <td><div class="progress-container"><div style="width: 35%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Ruby on Rails</td>
-           <td><div class="progress-container"><div style="width: 10%"></div></div></td>
-         </tr>
-         <tr>
-           <td>PHP</td>
-           <td><div class="progress-container"><div style="width: 30%"></div></div></td>
-         </tr>
-         <tr>
-           <td>MySQL</td>
-           <td><div class="progress-container"><div style="width: 15%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Python</td>
-           <td><div class="progress-container"><div style="width: 20%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Java</td>
-           <td><div class="progress-container"><div style="width: 5%"></div></div></td>
-         </tr>
-         <tr>
-           <td>C/C++</td>
-           <td><div class="progress-container"><div style="width: 5%"></div></div></td>
-         </tr>
-         <tr>
-           <td>Javascript</td>
-           <td><div class="progress-container"><div style="width: 15%"></div></div></td>
-         </tr>
-         <tr>
-           <td>TEI</td>
-           <td><div class="progress-container"><div style="width: 35%"></div></div></td>
-         </tr>
-         <tr>
-           <td>HTML</td>
-           <td><div class="progress-container"><div style="width: 85%"></div></div></td>
-         </tr>
-         <tr>
-           <td>CSS</td>
-           <td><div class="progress-container"><div style="width: 80%"></div></div></td>
-         </tr>
-       </tbody>
-     </table>
-  
-### Timeline of Technical Skills ###
-     <div class="timeline">
-         <ul class="events">
-             <li style="width: 13.5%; left: 81%;">Java <em>(2011)</em></li>
-             <li style="width: 29.5%; left: 70%;">Ruby <em>(2010 - 2012)</em></li>
-             <li style="width: 39.5%; left: 60%;">PHP <em>(2009 - 2012)</em></li>
-             <li style="width: 39.5%; left: 60%;">MySQL <em>(2009 - 2012)</em></li>
-             <li style="width: 49.5%; left: 50%;">Python <em>(2008 - 2012)</em></li>
-             <li style="width: 49.5%; left: 50%;">Javascript <em>(2008 - 2012)</em></li>
-             <li style="width: 99.8%; left: 0;">HTML &amp; CSS <em>(1998 - 2012)</em></li>
-         </ul> <!-- end .events -->
-
-     </div> <!-- end .timeline -->
 
 
-Unfinished
+**This section is not completed yet.**
+I'm currently migrating my cv into this repository. In the meantime,
+please visit my <a href="http://www.linkedin.com/profile/view?id=20589360&amp;locale=en_US&amp;trk=tab_pro">Linked-In
+profile</a>  or this <a
+href="https://dl.dropbox.com/u/4234369/resume-brunosan.pdf">pdf
+version</a> from late 2011. </p>
 
-Updated: 2012-04-19
+
+
+<footer>
+<div align="right">
+Updated: {{ site.time | date_to_long_string }}
+</div>
+</footer>
