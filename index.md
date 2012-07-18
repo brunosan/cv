@@ -5,6 +5,15 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 ***
 <header>
+
+
+**CV not completed yet.**
+I'm currently migrating my cv here. In the meantime,
+please visit my <a href="http://www.linkedin.com/profile/view?id=20589360&amp;locale=en_US&amp;trk=tab_pro">Linked-In
+profile</a>  or this <a
+href="https://dl.dropbox.com/u/4234369/resume-brunosan.pdf">pdf
+version</a> from late 2011. </p>
+
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
 1803 Biltmore St. NW Apt. 703  Washington DC 20009 USA
