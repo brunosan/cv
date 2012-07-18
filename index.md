@@ -5,9 +5,9 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 ***
 <header>
-(417) 728-6676 | [brunosan@gmail.com](brunosan@gmail.com) | [@brunosan](http://twitter.com/brunosan)   
++1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
-1803 Biltmore St. NW Apt. 703  Washington DC 20009 USA | [brunosan.eu](http://www.brunosan.eu)
+1803 Biltmore St. NW Apt. 703  Washington DC 20009 USA
 </header>
 
 
