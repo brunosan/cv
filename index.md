@@ -106,14 +106,14 @@ OAS LAC ambassadors, USAID, World Bank, US Department of State, Inter-American D
 Development"](http://brunosan.eu/2010/10/28/crowdsourcing-development/)
     * Maps and GIS: QGIS, TileMill, Grass, JSOM, OSM
 
-##SELECTED TRAININGS##
+##Selected trainings##
 * 2011-2008  US Department of Defense security clearance to work at the Naval Research Laboratory as Foreign National Contractor. 
  > Courses included: Information Assurance, Network Security, Environmental Management Systems.  
 * 2005 	Project Management Course, Hofgeismar Germany (Max Planck Institute).
 * 2003	European School NGO Management (AEGEE), Turkey
 * 2004-2002 	Civil Protection Courses on: Security, Emergency operations, firefighter, traffic warden, medical first aid.
 
-##SELECTED PEER-REVIEWED PUBLICATIONS##
+##Selected peer-reviewed publications##
 * Sánchez-Andrade Nuno, B. et al. “Spicule emission profiles observed in He i 10 830 Å“. 2007A&A...472L..51S
 * Sánchez-Andrade Nuno, B. et al. “Fast events and waves in AR of the Sun in Hα with high spatial res.“. 2008A&A...486..577S
 * Vourlidas, A., [Sanchez-Andrade Nuno, B.] et al. “The Structure and Dynamics of the Upper Chromosphere and Lower Transition Region as Revealed by the Subarcsecond VAULT Observations“. 2010SoPh..261...53V
