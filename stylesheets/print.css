@@ -21,6 +21,17 @@ body {
   display: block;
   text-align: right;
 }
+
+#resume:before {
+  content:"Online version with links available at brunosan.eu/cv";
+  position: absolute;
+  font-weight:bold;
+  top: 0px;
+  right: 0px;
+}
+
+
+
 #resume {
   width: 100%;
   margin-left: auto;
@@ -104,15 +115,7 @@ body {
   margin: 1em 0;
   padding-left: 0.6em;
 }
-#resume a {
-  color: #4183c4;
-  text-decoration: none;
-}
-#resume a:visited {
-  color: #4183c4;
-  text-decoration: none;
-}
-#resume a:hover { text-decoration: underline; }
+
 #resume img { max-width: 100%; }
 #resume blockquote {
   margin: 1em 0;
@@ -129,72 +132,16 @@ body {
   margin-bottom: 1em;
 }
 
-/*
-  STRUCTURE
-*/
-div.progress-container {
-    width: 680px;
-    margin: 2px 5px 2px 0;
-    padding: 1px;
-    float: left;
-    background: #cccccc;
-}
 
-div.progress-container > div {
-    background-color: #4183c4;
-    height: 12px;   
-}
-
-ul.events {
-    list-style-type: none;
-    margin: 0;
-    padding: 0 0 20px 0;
-}
-
-ul.events li {
-    background: #eee;
-    border: 1px solid #ddd;
-    color: #707070;
-    font-size: 1em;
-    font-weight: bold;
-    margin-bottom: 6px;
-    padding: 3px 0;
-    position: relative;
-    text-align: center;
-    line-height: 12px;
-}
-
-ul.events li em {
-    color: #aaa;
-    font-weight: normal;
-    font-size: 0.9em;
-}
-
-ul.intervals {
-    list-style-type: none;
-    padding: 0 0 20px 0;
-    display: block;
-}
-
-/* The width depends on the number of intervals. For example 100 / 7 = 14.29% -- then subtract a little bit for room for the borders */
-ul.intervals li {
-    background: #fff url(/images/1x1_eee.gif) repeat-x left 10%;
-    border-right: 1px solid #ccc;
-    color: #999;
-    float: left;
-    font-size: 1.2em;
-    margin: 0;
-    padding: 15px 0;
-    text-align: center;
-    width: 14.17%;
-}
-
-ul.intervals li.first {
-    border-left: 1px solid #ccc;
-}
 
 #float_right {
 	width: 600px;
 	float: right;
 	text-align: right;
+}
+
+
+#resume a{
+    text-decoration: none;
+    color: #000;
 }

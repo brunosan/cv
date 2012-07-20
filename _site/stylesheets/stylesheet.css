@@ -78,18 +78,17 @@ header {
 header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-weight: 900;
-  font-size: 150%;
+
   color: #303030;
   text-align: center;
 }
 
 header h2 {
   letter-spacing: -1px;
+  color: #303030;
+  font-weight: bold;
   font-size: 24px;
-  color: #aaa;
-  font-weight: normal;
   line-height: 1.3;
-  text-align: center;
 }
 
 
@@ -148,16 +147,15 @@ h1 {
 } 
 
 h2 {
+  color: #d5000d;
   font-size: 150% ;
-  font-weight: bold;
   position: relative;
   left: -25px;
-  color: #303030;
   margin-bottom: 8px;
+  font-weight: normal;
 } 
 
 h3 {
-  color: #d5000d;
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -196,6 +194,7 @@ blockquote {
   border-left: 10px ; 
   margin-bottom: 10px;
   padding: 0 0 0 20px;
+  width: 70%;
 }
 
 ul li {
@@ -240,3 +239,12 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+
+
+@media screen and (max-width:8.5in) { /* resize your window until the event is triggered */
+  html { width:8.5in; }
+  body { 
+    font: 9pt/1.5 Arial, sans-serif; 
+  background: none;
+  } /* Roughly 12px font */
+}
