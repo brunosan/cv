@@ -18,9 +18,9 @@ Director of Science and Technology at GAIN (Global Adaptation Institute)
 
 ## Areas of Professional Interest ##
 
-* Science & Technology. S&T to inform policies, and policies to implement better S&T.
-* Climate Change. Climate Change Adaptation, and the role of the private sector.
-* Open Source and Open Data, specially their relation with innovation, transparency and accountability.
+* **Science & Technology**. S&T to inform policies, and policies to implement better S&T.
+* **Climate Change**, Climate Change Adaptation, and the role of the private sector.
+* **Open Source and Open Data**, and their relation with innovation, transparency and accountability.
 
 </header>
 
@@ -30,19 +30,23 @@ Director of Science and Technology at GAIN (Global Adaptation Institute)
  >Director of Science and Technology. 
 
 >Gain is private sector led non-profit focused on resiliance to climate change. 
-Main responsability was to develop a global model at county level to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
-Responsible for Data Analysis, Visualization, coordination of the global consultation process and Documentation: [index.gain.org]()
+My main responsability was to develop a global model, at country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
+Responsible for Data Analysis, Visualization, coordination of the global consultation process, Documentation and communication strategy: [index.gain.org](http://gain.index.org)
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
 > Science and Technology Policy Fellow. 
 
->Project Management on: NASA decadal strategic reccomendation, Crowdsourcing tools.
+>Awarded Mirzayan Fellowship. Project Management on: NASA decadal strategic reccomendation, Crowdsourcing tools.
 
 **US Naval Research Laboratory, Washington, D.C.**  (2010-2008)
-> NASA Contractor, Research Assistant Professor from George Mason University, Space Science Division 	    Space and Rocket Scientist. Data manager and curator. Lead programmer. Space mission proposals. 
+> NASA Contractor, Research Assistant Professor from George Mason University
 
-**Max Planck for Solar System Research, Göttingen, Germany**  (2008-2005)
-> Postdoc Researcher. Principal Investigator. Project manager. Conference manager. Software & Hardware developer. Independent Research. Remote sensing. Signal processing. Lead Software development.
+> Worked at the Space Science Division of the Naval Research Laboratory. Worked with Satellite and rocket missions. 
+Calibration data analisys, and visualizations. Co-Investigator in Rocket proposals. 
+
+**Max Planck for Solar System Research, Göttingen, Germany**  (2008)
+> Postdoc Researcher. Principal Investigator and Project manager for ground-based telescopes. 
+Software & Hardware developer. Telescope operator. Independent Research. Remote sensing. Signal processing. Lead Software development.
 
 ## Education ##
 **PhD in Solar Physics. Max Planck Institute for Solar System Research / University of Göttingen, Germany** (2008-2005)
