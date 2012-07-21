@@ -55,14 +55,16 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 
 **MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain)** (2004-1999)
 > Theoretical physics, Instrumentation, Radiative transfer, Simulations and Remote Sensing.
+
 **B.A. in Physics. Universidad de Oviedo, Spain** (2003-1999)
-> Numerical simulation, statistics, fractal geometry
+
+> Numerical simulation, statistics, fractal geometry.
  		
 ##Volunteer work##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. (2009-present)
-* External Reviewer. Aqueduct Atlas. World Resources Institute (2012-2011). 
-* Evaluation Commitee member. Technolinks-MEDA (grants fund for
-  agricultural innovation, co-funded by CIDA,FOMIN).
+* External Reviewer. Aqueduct Atlas. World Resources Institute. (2012-2011) 
+* Evaluation Commitee member. Technolinks (MEDA/CIDA/FOMIN grants fund for
+  agricultural innovation). 2012
 * Chairman for the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2010-2008
 * Panel reviewer for US National Science Foundation. 2009
 * Project Manager at AEGEE (NGO). Duties both local and european (Treasurer, Secretary, IT, Logistics). 2008-2003
@@ -75,11 +77,10 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 
 ## Awards and Nominations ##
 * Proposed to be nominated Young Global Leader of the World Economic Forum for class 2013.
-* Main Project Manager for “Know your World”, awarded at “Apps for Development” competition from the World Bank. 2011-2010	
-* Mirzayan Fellow, 2010: The National Academies Christine Mirzayan Science & Technology Policy Graduate Fellowship Program.
+* Main Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010	
+* Mirzayan Fellow, 2010: The National Academies Mirzayan Science & Technology Policy Fellowship.
 * PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
 * ESA Astronaut Selection preliminary Candidate (2008)
-
 
 
 ## Languages ##
