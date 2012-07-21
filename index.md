@@ -36,21 +36,21 @@ Responsible for Data Analysis, Visualization, coordination of the global consult
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
 > Science and Technology Policy Fellow. 
 
->Awarded Mirzayan Fellowship. Project Management on: NASA decadal strategic reccomendation, Crowdsourcing tools.
+>Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic reccomendation, Crowdsourcing tools.
 
 **US Naval Research Laboratory, Washington, D.C.**  (2010-2008)
-> NASA Contractor, Research Assistant Professor from George Mason University
+> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University
 
 > Worked at the Space Science Division of the Naval Research Laboratory. Worked with Satellite and rocket missions. 
 Calibration data analisys, and visualizations. Co-Investigator in Rocket proposals. 
 
-**Max Planck for Solar System Research, Göttingen, Germany**  (2008)
-> Postdoc Researcher. Principal Investigator and Project manager for ground-based telescopes. 
+**Institute for Astrophysics, University of Göttingen, Germany**  (2008)
+> [IAG](http://www.uni-goettingen.de/en/203293.html) Postdoc Researcher. Principal Investigator and Project manager for ground-based telescopes. 
 Software & Hardware developer. Telescope operator. Independent Research. Remote sensing. Signal processing. Lead Software development.
 
 ## Education ##
-**PhD in Solar Physics. Max Planck Institute for Solar System Research / University of Göttingen, Germany** (2008-2005)
->[Dissertation](http://apod.nasa.gov/apod/ap070522.html): "Observations, analysis and interpretation with non-LTE of
+**PhD in Solar Physics. Max Planck Institute for Solar System Research, Germany** (2008-2005)
+>[Max Planck](http://www.mps.mpg.de/en/) PhD Fellowship. [Dissertation](http://apod.nasa.gov/apod/ap070522.html): "Observations, analysis and interpretation with non-LTE of
 >chromospheric structures" Side subject: Geophysics.
 
 **MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain)** (2004-1999)
@@ -78,9 +78,10 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 ## Awards and Nominations ##
 * Proposed to be nominated Young Global Leader of the World Economic Forum for class 2013.
 * Main Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010	
-* Mirzayan Fellow, 2010: The National Academies Mirzayan Science & Technology Policy Fellowship.
+* Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship.(2010)
 * PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
 * ESA Astronaut Selection preliminary Candidate (2008)
+* Max Planck PhD Fellow (2005-2008)
 
 
 ## Languages ##
@@ -112,11 +113,12 @@ Development"](http://brunosan.eu/2010/10/28/crowdsourcing-development/)
     * Maps and GIS: QGIS, TileMill, Grass, JSOM, OSM
 
 ##Selected trainings##
-* 2011-2008  US Department of Defense security clearance to work at the Naval Research Laboratory as Foreign National Contractor. 
+* 2011-2008:  US Department of Defense security clearance to work at the Naval Research Laboratory as Foreign National Contractor. 
  > Courses included: Information Assurance, Network Security, Environmental Management Systems.  
-* 2005 	Project Management Course, Hofgeismar Germany (Max Planck Institute).
-* 2003	European School NGO Management (AEGEE), Turkey
-* 2004-2002 	Civil Protection Courses on: Security, Emergency operations, firefighter, traffic warden, medical first aid.
+* 2005: 	Project Management Course, Hofgeismar Germany (Max Planck Institute).
+* 2003:   European School NGO Management (AEGEE), Turkey
+* 2004-2002 	Civil Protection Corps.
+    >Security, Emergency operations, Firefighter, Traffic warden, Medical first aid.
 
 ##Selected peer-reviewed publications##
 * Sánchez-Andrade Nuno, B. et al. “Spicule emission profiles observed in He i 10 830 Å“. 2007A&A...472L..51S
