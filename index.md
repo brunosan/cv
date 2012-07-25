@@ -21,7 +21,6 @@ Director of Science and Technology at GAIN (Global Adaptation Institute)
 * **Science & Technology**. S&T to inform policies, and policies to implement better S&T.
 * **Climate Change**, Climate Change Adaptation, and the role of the private sector.
 * **Open Source and Open Data**, and their relation with innovation, transparency and accountability.
-
 </header>
 
 
@@ -30,8 +29,8 @@ Director of Science and Technology at GAIN (Global Adaptation Institute)
  >Director of Science and Technology. 
 
 >Gain is private sector led non-profit focused on resiliance to climate change. 
-My main responsability was to develop a global model, at country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
-Responsible for Data Analysis, Visualization, coordination of the global consultation process, Documentation and communication strategy: [index.gain.org](http://gain.index.org)
+My main responsability was to develop a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
+Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://gain.index.org)
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
 > Science and Technology Policy Fellow. 
@@ -110,7 +109,7 @@ OAS LAC ambassadors, USAID, World Bank, US Department of State, Inter-American D
       >Prepared a White Paper while at the National Academies:
 ["Crowdsourcing
 Development"](http://brunosan.eu/2010/10/28/crowdsourcing-development/)
-    * Maps and GIS: QGIS, TileMill, Grass, JSOM, OSM
+    * Maps and GIS: QGIS, TileMill, Grass, OSM
 
 ##Selected trainings##
 * 2011-2008:  US Department of Defense security clearance to work at the Naval Research Laboratory as Foreign National Contractor. 
@@ -132,7 +131,6 @@ entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&
 Climbing (US 5.10), Running (half marathon), Reading (also writting
 science outreach. e.g. [NASA
 APOD](http://apod.nasa.gov/apod/ap070522.html)), speed skating, traveling
-
 
 <footer>
 <div align="right">
