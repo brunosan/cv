@@ -128,7 +128,7 @@ Development"](http://brunosan.eu/2010/10/28/crowdsourcing-development/)
 entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
 
 ###Other Activities###
-Climbing (US 5.10), Running (Marathon 3h54m), Reading (also writting
+Climbing (US 5.10), Running (Marathon 3h51m), Reading (also writting
 science outreach. e.g. [NASA
 APOD](http://apod.nasa.gov/apod/ap070522.html)), speed skating, traveling
 
