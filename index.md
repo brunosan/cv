@@ -8,7 +8,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
-Adams Morgan --  Washington DC 20009 USA
+Location: USA
 
 ****
 
