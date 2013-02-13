@@ -28,8 +28,7 @@ Director of Science and Technology at GAIN (Global Adaptation Institute)
 **Global Adaptation Institute, Washington DC** (2011-present)
  >Director of Science and Technology. 
 
->Gain is private sector led non-profit focused on resiliance to climate change. 
->Develop a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
+>Gain is private sector led non-profit focused on resiliance to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
 Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://gain.index.org)
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
