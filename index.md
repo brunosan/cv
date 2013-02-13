@@ -6,15 +6,17 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ***
 <header>
 
+<div align="right">
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
 Location: USA
-
+</div>
 ****
 
 ## Current Position ##
 
-Director of Science and Technology at GAIN (Global Adaptation Institute)
+* Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame).
+* Director of Science and Technology at GAIN ([Global Adaptation Institute](http://gain.org))
 
 ## Areas of Professional Interest ##
 
