@@ -5,12 +5,9 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 ***
 <header>
-
-<div align="right">
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
 Location: USA
-</div>
 ****
 
 ## Current Position ##
