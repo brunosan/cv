@@ -73,7 +73,7 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 
 
 ## Awards and Nominations ##
-* Proposed to be nominated Young Global Leader of the World Economic Forum for class 2013.
+* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013
 * Main Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010	
 * Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship.(2010)
 * PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
