@@ -14,6 +14,7 @@ Location: USA
 
 * Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame).
 * Director of Science and Technology at GAIN ([Global Adaptation Institute](http://gain.org))
+* Young Global Leader of the [World Economic Forum](http://www.weforum.org/)
 
 ## Areas of Professional Interest ##
 
