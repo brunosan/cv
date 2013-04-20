@@ -64,18 +64,16 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 * Evaluation Commitee member. Technolinks (MEDA/CIDA/FOMIN grants fund for
   agricultural innovation). 2012
 * Chairman for the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2010-2008
-* Panel reviewer for US National Science Foundation. 2009
 * Project Manager at AEGEE (NGO). Duties both local and european (Treasurer, Secretary, IT, Logistics). 2008-2003
 * AEGEE Summer University Project Manager, Slovenia. 2007 	
 * Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 2004-1999 	
 * Project Manager of several European Traveling Summer Universities and other international events at the *European Student´s Forum*. 2004-2001	
 * ICT Manager of AGORA-AEGEE (major international students conference, +1000 attendees). 2003 	
-* Student representative of the Faculty of Science. University of Oviedo. 2002-2001	
 
 
 ## Awards and Nominations ##
 * [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013
-* Main Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010	
+* Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010	
 * Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship.(2010)
 * PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
 * ESA Astronaut Selection preliminary Candidate (2008)
@@ -83,14 +81,15 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 
 
 ## Languages ##
-* Spanish: Native	
-* English: Fluent
-* German: Spoken 		
-* French: Intermediate. 
-
+<table style="align:left; width:50%;"><tr>
+	<td><strong>Spanish </strong>: Native 
+	</td><td>	<strong>English</strong>: Fluent	
+	</td><td>	<strong>German</strong>: Spoken	
+	</td><td>	<strong>French</strong>: Intermediate. </td>
+</tr></table>
 ##Selected talks and articles##
 - *2012-2011* Presented the GAIN Index in climate change to scientist, NGOs, private and public sector, including: 
-OAS LAC ambassadors, USAID, World Bank, US Department of State, Inter-American Development Bank, Carnegie Endowment, Heritage Foundation, International Adaptation Futures Conference, Tecnológico de Monterrey (Mexico).
+OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Development Bank, Carnegie Endowment, Tecnológico de Monterrey (Mexico).
 - *2012* Training Workshop at the Engineers Without Borders Conference. Las Vegas, Nevada.
 - *2011* Panelist at “World Climate Summit”. UNFCCC Conference on Climate Change, Durban, South Africa
 - *2009* 	Invited Lecturer “Cátedra Magistral Mutis”. National University of Colombia, Bogotá. (~1600 attendees)
@@ -121,7 +120,7 @@ Development"](http://brunosan.eu/2010/10/28/crowdsourcing-development/)
 ##Selected peer-reviewed publications##
 * Sánchez-Andrade Nuno, B. et al. “Spicule emission profiles observed in He i 10 830 Å“. 2007A&A...472L..51S
 * Sánchez-Andrade Nuno, B. et al. “Fast events and waves in AR of the Sun in Hα with high spatial res.“. 2008A&A...486..577S
-* Vourlidas, A., [Sanchez-Andrade Nuno, B.] et al. “The Structure and Dynamics of the Upper Chromosphere and Lower Transition Region as Revealed by the Subarcsecond VAULT Observations“. 2010SoPh..261...53V
+* Vourlidas, A., [Sanchez-Andrade Nuno, B.] et al. “Dynamics of the Upper Solar Chromosphere by the VAULT rocket Observations“. 2010SoPh.261.53V
 
 [[More
 entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
@@ -132,7 +131,7 @@ science outreach. e.g. [NASA
 APOD](http://apod.nasa.gov/apod/ap070522.html)), speed skating, traveling
 
 <footer>
-<div align="right">
+<div align="center">
 Updated: {{ site.time | date_to_long_string }}
 </div>
 </footer>
