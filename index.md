@@ -29,7 +29,7 @@ Location: USA
  >Director of Science and Technology. 
 
 >Gain is private sector led non-profit focused on resiliance to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
-Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://gain.index.org)
+Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://index.gain.org)
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
 > Science and Technology Policy Fellow. 
