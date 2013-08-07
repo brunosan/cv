@@ -12,21 +12,22 @@ Location: USA
 
 ## Current Position ##
 
-* Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame).
-* Director of Science and Technology at GAIN ([Global Adaptation Institute](http://gain.org))
+* Chief Scientist at [Mapbox](http://mapbox.com)
 * Young Global Leader of the [World Economic Forum](http://www.weforum.org/)
 
 ## Areas of Professional Interest ##
 
+* **Open Mapping and Open Data**, and their relation with innovation, transparency and accountability.
 * **Science & Technology**. S&T to inform policies, and policies to implement better S&T.
 * **Climate Change**, Climate Change Adaptation, and the role of the private sector.
-* **Open Source and Open Data**, and their relation with innovation, transparency and accountability.
+
 </header>
 
 
 ## Work Experience ##
-**Global Adaptation Institute, Washington DC** (2011-present)
- >Director of Science and Technology. 
+**Global Adaptation Institute, Washington DC** (2011-2013)
+ >Director of Science and Technology.
+ >Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame).
 
 >Gain is private sector led non-profit focused on resiliance to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
 Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://index.gain.org)
