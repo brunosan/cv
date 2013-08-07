@@ -25,11 +25,16 @@ Location: USA
 
 
 ## Work Experience ##
+**MaBox, Washington DC** (2013-present)
+ >Chief Scientist.
+
+>MapBox is a full-service cloud-based open mapping platform. As Chief Scientist I´m a key part of the Satellite team and a major role on our big data projects across the company. 
+
 **Global Adaptation Institute, Washington DC** (2011-2013)
  >Director of Science and Technology.
  >Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame).
 
->Gain is private sector led non-profit focused on resiliance to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
+>Gain is a private sector led non-profit focused on resiliance to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects. 
 Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://index.gain.org)
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
