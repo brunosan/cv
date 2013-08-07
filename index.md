@@ -12,7 +12,7 @@ Location: USA
 
 ## Current Position ##
 
-* Chief Scientist at [Mapbox](http://mapbox.com)
+* Chief Scientist at [MapBox](http://mapbox.com)
 * Young Global Leader of the [World Economic Forum](http://www.weforum.org/)
 
 ## Areas of Professional Interest ##
@@ -25,10 +25,10 @@ Location: USA
 
 
 ## Work Experience ##
-**MaBox, Washington DC** (2013-present)
+**MapBox, Washington DC** (2013-present)
  >Chief Scientist.
 
->MapBox is a full-service cloud-based open mapping platform. As Chief Scientist I´m a key part of the Satellite team and a major role on our big data projects across the company. 
+>[MapBox](http://mapbox.com) is a full-service cloud-based open mapping platform. As Chief Scientist I´m a key part of the Satellite team and a major role on our big data projects across the company. 
 
 **Global Adaptation Institute, Washington DC** (2011-2013)
  >Director of Science and Technology.
