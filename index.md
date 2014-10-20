@@ -78,6 +78,7 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 
 
 ## Awards and Nominations ##
+* Member of the [Global Agenda Council on Space](http://www.weforum.org/content/global-agenda-council-space-2014-2016-0). 2014-2016
 * [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013
 * Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010	
 * Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship.(2010)
@@ -94,6 +95,7 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 	</td><td>	<strong>French</strong>: Intermediate. </td>
 </tr></table>
 ##Selected talks and articles##
+- *2014* Invited Speaker at the World Economic Forum in Panama.
 - *2012-2011* Presented the GAIN Index in climate change to scientist, NGOs, private and public sector, including: 
 OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Development Bank, Carnegie Endowment, Tecnológico de Monterrey (Mexico).
 - *2012* Training Workshop at the Engineers Without Borders Conference. Las Vegas, Nevada.
