@@ -13,7 +13,7 @@ Location: USA
 ## Current Position ##
 
 * Chief Scientist at [MapBox](http://mapbox.com)
-* Young Global Leader of the [World Economic Forum](http://www.weforum.org/)
+* Board of Advisor for [Silica Labs](http://silicalabs.com/) and [Flattau Associates](http://www.flattauassociates.com/).
 
 ## Areas of Professional Interest ##
 
