@@ -13,7 +13,7 @@ Location: USA
 ## Current Position ##
 
 * Chief Scientist at [MapBox](http://mapbox.com)
-* Board of Advisor for [Silica Labs](http://silicalabs.com/) and [Flattau Associates](http://www.flattauassociates.com/).
+* Board of Advisors at [Silica Labs](http://silicalabs.com/) and [Flattau Associates](http://www.flattauassociates.com/).
 
 ## Areas of Professional Interest ##
 
