@@ -79,7 +79,7 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 
 ## Awards and Nominations ##
 * Member of the [Global Agenda Council on Space](http://www.weforum.org/content/global-agenda-council-space-2014-2016-0). 2014-2016
-* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013
+* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
 * Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010	
 * Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship.(2010)
 * PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
