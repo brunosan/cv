@@ -12,8 +12,7 @@ Location: USA
 
 ## Current Position ##
 
-* Chief Scientist at [MapBox](http://mapbox.com)
-* Board of Advisors at [Silica Labs](http://silicalabs.com/) and [Flattau Associates](http://www.flattauassociates.com/).
+* Innovation Labs Data Scientist. [World Bank](http://www.worldbank.org/)
 
 ## Areas of Professional Interest ##
 
@@ -25,10 +24,15 @@ Location: USA
 
 
 ## Work Experience ##
-**MapBox, Washington DC** (2013-present)
+** World Bank, Washington DC** (2015-present)
+ >Innovation Labs Data Scientist
+
+>The [World Bank](http://www.worldbank.org/) is a United Nations international institution with two goals for the world to achieve by 2030: (1) End extreme poverty by decreasing the percentage of people living on less than $1.25 a day to no more than 3%. (2) Promote shared prosperity by fostering the income growth of the bottom 40% for every country. The World Bank is a vital source of financial and technical assistance to developing countries around the world.
+
+**MapBox, Washington DC** (2013-2014)
  >Chief Scientist.
 
->[MapBox](http://mapbox.com) is a full-service cloud-based open mapping platform. As Chief Scientist I´m a key part of the Satellite team and a major role on our big data projects across the company. 
+>[MapBox](http://mapbox.com) is a full-service cloud-based open mapping platform. As Chief Scientist I was a key part of the Satellite team and a major role on our big data projects across the company. 
 
 **Global Adaptation Institute, Washington DC** (2011-2013)
  >Director of Science and Technology.
