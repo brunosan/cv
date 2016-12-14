@@ -8,7 +8,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Work Experience ##
 
-9 years of Experience on Data Analysis, Project Managment, Research and International Development.
+8 years of Experience on Data Analysis, Project Managment, Research and International Development.
 
 ** World Bank, Washington DC** (2015-present)
  >Innovation Labs Data Scientist. Technical lead on bringing Big Data into operations across the Bank Group.
