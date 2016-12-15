@@ -1,5 +1,4 @@
 safe: false
-markdown: rdiscount
 highlighter: true
 exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "add-filenames-to-posts.sh"]
 multivews: true
