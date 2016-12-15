@@ -1,5 +1,5 @@
 safe: false
-highlighter: true
+highlighter: rouge
 exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "add-filenames-to-posts.sh"]
 multivews: true
 
