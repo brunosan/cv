@@ -8,12 +8,12 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Work Experience ##
 
-8 years of Experience on Data Analysis, Project Managment, Research and International Development.
+8 years of Experience on Data Analysis, Project Management, Research and International Development.
 
 ** World Bank, Washington DC** (2015-present)
  >Innovation Labs Data Scientist. Technical lead on bringing Big Data into operations across the Bank Group.
 
->Advising and Implementing delivery of complex projects leveraging Data analytics, including capacity building and client in-country support. Examples include rural electrification in India using satellite images, Rural Roads Accesibility PFR loan in China, Traffic Managment in South Asia, and Land titling in Kosovo with drones. All parts of the Innovational Labs disruption protfolio (now Global Operations Knowledge Managment).
+>Advising and Implementing delivery of complex projects leveraging Data analytics, including capacity building and client in-country support. Examples include rural electrification in India using satellite images, Rural Roads Accessibility software PFR loan in China, Traffic Management in South Asia, and Land titling in Kosovo with drones. All these are some of the Innovation Labs portfolio (now Global Operations Knowledge Management).
 
 **Mapbox, Washington DC** (2013-2014)
  >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite, and supporting our international clients.
@@ -24,19 +24,19 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
  >Director of Science and Technology.
  >Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame).
 
->Gain is a private sector led non-profit focused on resiliance to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to succesfully implement Adaptation projects.
+>Gain is a private sector led non-profit focused on resilience to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to successfully implement Adaptation projects.
 Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://index.gain.org)
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
-> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of invesment on Research (Decadal Survey).
+> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey).
 
->Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic reccomendation, Crowdsourcing tools.
+>Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.
 
 **US Naval Research Laboratory, Washington, D.C.**  (2010-2008)
 > NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University.
 
 > Worked at the Space Science Division of the Naval Research Laboratory. Worked with Satellite and rocket missions.
-Calibration data analisys, and visualizations.
+Calibration data analysis, and visualizations.
 
 **Institute for Astrophysics, University of Göttingen, Germany** (2008)
 > [IAG](http://www.uni-goettingen.de/en/203293.html) Postdoc Researcher. Principal Investigator and Project manager for ground-based telescopes. Lead on IYA2009 (International Development on Scientific cooperation on society outreach).
