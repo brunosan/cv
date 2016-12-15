@@ -4,13 +4,13 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ---
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
-****
+
 
 ## Work Experience ##
 
 8 years of Experience on Data Analysis, Project Management, Research and International Development.
 
-** World Bank, Washington DC** (2015-present)
+**World Bank, Washington DC** (2015-present)
  >Innovation Labs Data Scientist. Technical lead on bringing Big Data into operations across the Bank Group.
 
 >Advising and Implementing delivery of complex projects leveraging Data analytics, including capacity building and client in-country support. Examples include rural electrification in India using satellite images, Rural Roads Accessibility software PFR loan in China, Traffic Management in South Asia, and Land titling in Kosovo with drones. All these are some of the Innovation Labs portfolio (now Global Operations Knowledge Management).
