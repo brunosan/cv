@@ -7,15 +7,18 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ****
 
 ## Work Experience ##
+
+8 years of Experience on Data Analysis, Project Managment, Research and International Development.
+
 ** World Bank, Washington DC** (2015-present)
  >Innovation Labs Data Scientist. Technical lead on bringing Big Data into operations across the Bank Group.
 
->The [World Bank Group](http://www.worldbank.org/) is a United Nations international institution with two goals for the world to achieve by 2030: (1) End extreme poverty by decreasing the percentage of people living on less than $1.25 a day to no more than 3%. (2) Promote shared prosperity by fostering the income growth of the bottom 40% for every country. The World Bank is a vital source of financial and technical assistance to developing countries around the world.
+>Advising and Implementing delivery of complex projects leveraging Data analytics, including capacity building and client in-country support. Examples include rural electrification in India using satellite images, Rural Roads Accesibility PFR loan in China, Traffic Managment in South Asia, and Land titling in Kosovo with drones. All parts of the Innovational Labs disruption protfolio (now Global Operations Knowledge Managment).
 
 **Mapbox, Washington DC** (2013-2014)
- >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite.
+ >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite, and supporting our international clients.
 
->[Mapbox](http://mapbox.com) is a full-service cloud-based open mapping platform. As Chief Scientist I was a key part of the Satellite team and a major role on our big data projects across the company.
+>[Mapbox](http://mapbox.com) is a full-service cloud-based open mapping platform.
 
 **Global Adaptation Institute, Washington DC** (2011-2013)
  >Director of Science and Technology.
@@ -25,18 +28,18 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://index.gain.org)
 
 **The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
-> Science and Technology Policy Fellow.
+> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of invesment on Research (Decadal Survey).
 
 >Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic reccomendation, Crowdsourcing tools.
 
 **US Naval Research Laboratory, Washington, D.C.**  (2010-2008)
-> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University
+> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University.
 
 > Worked at the Space Science Division of the Naval Research Laboratory. Worked with Satellite and rocket missions.
-Calibration data analisys, and visualizations. Co-Investigator in Rocket proposals.
+Calibration data analisys, and visualizations.
 
 **Institute for Astrophysics, University of Göttingen, Germany** (2008)
-> [IAG](http://www.uni-goettingen.de/en/203293.html) Postdoc Researcher. Principal Investigator and Project manager for ground-based telescopes.
+> [IAG](http://www.uni-goettingen.de/en/203293.html) Postdoc Researcher. Principal Investigator and Project manager for ground-based telescopes. Lead on IYA2009 (International Development on Scientific cooperation on society outreach).
 Software & Hardware developer. Telescope operator. Independent Research. Remote sensing. Signal processing. Lead Software development.
 
 ## Education ##
