@@ -63,7 +63,7 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 * ESA Astronaut Selection preliminary Candidate (2008)
 * Max Planck PhD Fellow (2005-2008)
 
-##Volunteer work##
+## Volunteer work##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. (2009-present)
 * External Reviewer. Aqueduct Atlas. World Resources Institute. (2012-2011)
 * Evaluation Committee member. Technolinks (MEDA/CIDA/FOMIN grants fund for agricultural innovation). 2012
@@ -82,7 +82,7 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 	</td><td>	<strong>French</strong>: Intermediate. </td>
 </tr></table>
 
-##Selected talks and articles##
+## Selected talks and articles##
 - *2014* Invited Speaker at the World Economic Forum in Panama.
 - *2012-2011* Presented the GAIN Index in climate change to scientist, NGOs, private and public sector, including:
 OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Development Bank, Carnegie Endowment, Tecnológico de Monterrey (Mexico).
@@ -105,18 +105,13 @@ OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Devel
 Development"](http://brunosan.eu/2010/10/28/crowdsourcing-development/)
     * Maps and GIS: QGIS, TileMill, Grass, OSM
 
-##Selected peer-reviewed publications##
+## Selected peer-reviewed publications##
 * Sánchez-Andrade Nuno, B. et al. “Spicule emission profiles observed in He i 10 830 Å“. 2007A&A...472L..51S
 * Sánchez-Andrade Nuno, B. et al. “Fast events and waves in AR of the Sun in Hα with high spatial res.“. 2008A&A...486..577S
 * Vourlidas, A., [Sanchez-Andrade Nuno, B.] et al. “Dynamics of the Upper Solar Chromosphere by the VAULT rocket Observations“. 2010SoPh.261.53V
 
 [[More
 entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
-
-###Other Activities###
-Climbing (US 5.10), Running (Marathon [3h38m](http://results.chicagomarathon.com/2013/?content=detail&fpid=search&pid=search&idp=999999107FA30900000F6923&lang=EN_CAP&event=MAR)), Reading (also writing
-science outreach. e.g. [NASA
-APOD](http://apod.nasa.gov/apod/ap070522.html)), speed skating, traveling
 
 <footer>
 <div align="center">
