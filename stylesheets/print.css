@@ -23,7 +23,7 @@ body {
 }
 
 #resume:before {
-  content:"Online version with links available at brunosan.eu/cv";
+  content:"Online version with links available at cv.brunosan.eu";
   position: absolute;
   font-weight:bold;
   top: 0px;
