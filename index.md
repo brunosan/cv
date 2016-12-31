@@ -2,76 +2,62 @@
 layout: default
 title: "CV: Bruno Sánchez-Andrade Nuño"
 ---
+
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
 
-## Work Experience ##
+### Strategic Advisor on Science & Technology.
 
-8 years of Experience on Data Analysis, Project Management, Research and International Development.
+<hr>
 
-**World Bank, Washington DC** (2015-present)
- >Innovation Labs Data Scientist. Technical lead on bringing Big Data into operations across the Bank Group.
+*World Bank, Washington DC* (2015-2017)
+ >[Innovation Labs](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+.
 
->Advising and Implementing delivery of complex projects leveraging Data analytics, including capacity building and client in-country support. Examples include rural electrification in India using satellite images, Rural Roads Accessibility software PFR loan in China, Traffic Management in South Asia, and Land titling in Kosovo with drones. All these are some of the Innovation Labs portfolio (now Global Operations Knowledge Management).
+*Mapbox, San Francisco* (2013-2014)
+ >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.
 
-**Mapbox, Washington DC** (2013-2014)
- >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite, and supporting our international clients.
+*Global Adaptation Institute, Washington DC* (2011-2013)
+ >Director of Science and Technology. Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame). Gain is a private sector led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org)
 
->[Mapbox](http://mapbox.com) is a full-service cloud-based open mapping platform.
+*The National Academies on Science, Engineering and Medicine, Washington, D.C.* (2010)
+> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey). Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.
 
-**Global Adaptation Institute, Washington DC** (2011-2013)
- >Director of Science and Technology.
- >Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame).
+*US Naval Research Laboratory, Washington, D.C.* (2008-2010)
+> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University. Space Science Division of the Naval Research Laboratory. Satellite and rocket missions. Project implementation, Calibration data analysis, and visualizations.
 
->Gain is a private sector led non-profit focused on resilience to climate change. Responsible for developing a global framework, at the country level, to measure Vulnerability to Climate Change and Readiness to successfully implement Adaptation projects.
-Responsible for Data Analysis, Visualization, coordination of the global consultation process, Website implementation, documentation and communication strategy: [index.gain.org](http://index.gain.org)
+## Active Boards and Councils ##
 
-**The National Academies on Science, Engineering and Medicine, Washington, D.C.** (2010)
-> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey).
+* Strategic Advisory Board. Inmarsat, International Partnership Programme.
+* Member of the *World Economic Forum* "Global Future Council on Space".
+* International Advisory Council. UAE Federal Competitiveness and Statistics Authority.
 
->Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.
-
-**US Naval Research Laboratory, Washington, D.C.**  (2010-2008)
-> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University.
-
-> Worked at the Space Science Division of the Naval Research Laboratory. Worked with Satellite and rocket missions.
-Calibration data analysis, and visualizations.
-
-**Institute for Astrophysics, University of Göttingen, Germany** (2008)
-> [IAG](http://www.uni-goettingen.de/en/203293.html) Postdoc Researcher. Principal Investigator and Project manager for ground-based telescopes. Lead on IYA2009 (International Development on Scientific cooperation on society outreach).
-Software & Hardware developer. Telescope operator. Independent Research. Remote sensing. Signal processing. Lead Software development.
 
 ## Education ##
-**PhD in Solar Physics. Max Planck Institute for Solar System Research, Germany** (2008-2005)
->[Max Planck](http://www.mps.mpg.de/en/) PhD Fellowship. [Dissertation](http://apod.nasa.gov/apod/ap070522.html): "Observations, analysis and interpretation with non-LTE of
->chromospheric structures" Side subject: Geophysics.
 
-**MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain)** (2004-1999)
-> Theoretical physics, Instrumentation, Radiative transfer, Simulations and Remote Sensing.
-
-**B.A. in Physics. Universidad de Oviedo, Spain** (2003-1999)
-
-> Numerical simulation, statistics, fractal geometry.
+* Executive Modules:
+  * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*, 2016
+  * Oxford Said Business School: *Transformational Leadership*, 2015
+  * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*, 2014
+* PhD in Solar Physics. Max Planck Institute for Solar System Research, Germany  2005-2008
+* MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
+* B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
 
 ## Awards and Nominations ##
-* Member of the [Global Agenda Council on Space](http://www.weforum.org/content/global-agenda-council-space-2014-2016-0). 2014-2016
 * [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
-* Project Manager for “Know your World”, awarded at “Apps for Development” World Bank competition. 2011-2010
-* Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship.(2010)
-* PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
-* ESA Astronaut Selection preliminary Candidate (2008)
-* Max Planck PhD Fellow (2005-2008)
+* TEDx Gracia. *The Future is not about data*. 2016
+* Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship. 2010
+* PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
+* ESA Astronaut Selection preliminary Candidate 2008
+* Max Planck PhD Fellow. 2005-2008
 
 ## Volunteer work##
-* Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. (2009-present)
-* External Reviewer. Aqueduct Atlas. World Resources Institute. (2012-2011)
-* Evaluation Committee member. Technolinks (MEDA/CIDA/FOMIN grants fund for agricultural innovation). 2012
-* Chairman for the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2010-2008
-* Project Manager at AEGEE (NGO). Duties both local and european (Treasurer, Secretary, IT, Logistics). 2008-2003
-* AEGEE Summer University Project Manager, Slovenia. 2007 	
-* Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 2004-1999 	
-* Project Manager of several European Traveling Summer Universities and other international events at the *European Student´s Forum*. 2004-2001
+* Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. 2009-2016
+* Founding member. ECUSA. 2015-2016
+* Chairman for the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2008-2010
+* Project Manager at AEGEE (NGO). Duties both local and european (Treasurer, Secretary, IT, Logistics). 2003-2008
+* Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004 	
+* Project Manager of several European Traveling Summer Universities and other international events at the *European Student´s Forum*. 2001-2004
 * ICT Manager of AGORA-AEGEE (major international students conference, +1000 attendees). 2003 	
 
 ## Languages ##
@@ -83,6 +69,7 @@ Software & Hardware developer. Telescope operator. Independent Research. Remote 
 </tr></table>
 
 ## Selected talks and articles##
+- *2016* TEDx Gracia.
 - *2014* Invited Speaker at the World Economic Forum in Panama.
 - *2012-2011* Presented the GAIN Index in climate change to scientist, NGOs, private and public sector, including:
 OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Development Bank, Carnegie Endowment, Tecnológico de Monterrey (Mexico).
@@ -90,25 +77,6 @@ OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Devel
 - *2011* Panelist at “World Climate Summit”. UNFCCC Conference on Climate Change, Durban, South Africa
 - *2009* 	Invited Lecturer “Cátedra Magistral Mutis”. National University of Colombia, Bogotá. (~1600 attendees)
 - *2009-2005* Several Scientific articles and interviews on science outreach for national newspapers and TVs.
-
-## ICT
-* Advanced user and administrator in Windows, Linux, MacOSX & Sun;
-* Office suites: MS Office, OpenOffice.org, iWork Pages, iWork Keynote, LaTeX, iMovie, ffmpeg, QT
-*   Developer
-    * Web developer: HTML, XML, Jekyll, WordPress, PHP, CMS Drupal, Heyu, Jekyll
-    * Software Developer, data analisys:  IDL, FORTRAN, C, VBA, Shell, Python, git, Google Apps Script.
-      > Selected Open sourced repositories available on [Github](http://www.github.com/brunosan)
-    * Social Media and News: Managing News, ThinkUp, Twitter SDK, Facebook SDK
-    * Crowdsourcing: Ushahidi
-      >Prepared a White Paper while at the National Academies:
-["Crowdsourcing
-Development"](http://brunosan.eu/2010/10/28/crowdsourcing-development/)
-    * Maps and GIS: QGIS, TileMill, Grass, OSM
-
-## Selected peer-reviewed publications##
-* Sánchez-Andrade Nuno, B. et al. “Spicule emission profiles observed in He i 10 830 Å“. 2007A&A...472L..51S
-* Sánchez-Andrade Nuno, B. et al. “Fast events and waves in AR of the Sun in Hα with high spatial res.“. 2008A&A...486..577S
-* Vourlidas, A., [Sanchez-Andrade Nuno, B.] et al. “Dynamics of the Upper Solar Chromosphere by the VAULT rocket Observations“. 2010SoPh.261.53V
 
 [[More
 entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
