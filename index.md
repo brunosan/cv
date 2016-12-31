@@ -81,6 +81,10 @@ OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Devel
 [[More
 entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
 
+<p>
+<a href="https://www.linkedin.com/pub/bruno-sanchez-andrade-nu%C3%B1o/6/a8b/180" target="_blank">
+<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Bruno Sanchez-Andrade Nuño's profile on LinkedIn" border="0" width="160" height="33"></a></p>
+
 <footer>
 <div align="center">
 Updated: {{ site.time | date_to_long_string }}
