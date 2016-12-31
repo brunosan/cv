@@ -76,7 +76,6 @@ OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Devel
 - *2012* Training Workshop at the Engineers Without Borders Conference. Las Vegas, Nevada.
 - *2011* Panelist at “World Climate Summit”. UNFCCC Conference on Climate Change, Durban, South Africa
 - *2009* 	Invited Lecturer “Cátedra Magistral Mutis”. National University of Colombia, Bogotá. (~1600 attendees)
-- *2009-2005* Several Scientific articles and interviews on science outreach for national newspapers and TVs.
 
 [[More
 entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
