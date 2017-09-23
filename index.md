@@ -6,36 +6,37 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
+## Working experience ##
 
-### Strategic Advisor on Science & Technology.
+**Satellogic** (2017-)
+ >[VP, Impact](http://www.satellogic.com). Vicepresident for Impact. Responsible for strategy and projects with Social and/or environmental primary objectives. Satellogic builds and operates high Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2017 we have 5 satellites operating in Space. Based in Buenos Aires and Spain.
 
-<hr>
+**World Bank** (2015-2017)
+ >[Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC.
 
-*World Bank, Washington DC* (2015-2017)
- >[Innovation Labs](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+.
+**Mapbox** (2013-2015)
+ >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco.
 
-*Mapbox, San Francisco* (2013-2014)
- >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.
+**Global Adaptation Institute** (2011-2013)
+ >Director of Science and Technology. Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame). Gain is a private sector led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
 
-*Global Adaptation Institute, Washington DC* (2011-2013)
- >Director of Science and Technology. Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame). Gain is a private sector led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org)
+**The National Academies on Science, Engineering and Medicine** (2010)
+> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey). Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.  Based in Washington DC.
 
-*The National Academies on Science, Engineering and Medicine, Washington, D.C.* (2010)
-> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey). Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.
-
-*US Naval Research Laboratory, Washington, D.C.* (2008-2010)
-> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University. Space Science Division of the Naval Research Laboratory. Satellite and rocket missions. Project implementation, Calibration data analysis, and visualizations.
+**US Naval Research Laboratory** (2008-2010)
+> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University. Space Science Division of the Naval Research Laboratory. Satellite and rocket missions. Project implementation, Calibration data analysis, and visualizations.  Based in Washington DC.
 
 ## Active Boards and Councils ##
 
 * Strategic Advisory Board. Inmarsat, International Partnership Programme.
-* Member of the *World Economic Forum* "Global Future Council on Space".
+* Member of the *World Economic Forum*, "Expert Network" and "Global Future Council on Space".
 * International Advisory Council. UAE Federal Competitiveness and Statistics Authority.
 
 
 ## Education ##
 
 * Executive Modules:
+  * Harvard Kennedy School Education Module: *Global Leadership and Public Policy for the 21st Century*, 2017
   * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*, 2016
   * Oxford Said Business School: *Transformational Leadership*, 2015
   * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*, 2014
@@ -43,7 +44,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
 * B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
 
-## Awards and Nominations ##
+## Selected Awards and Nominations ##
 * [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
 * TEDx Gracia. *The Future is not about data*. 2016
 * Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship. 2010
