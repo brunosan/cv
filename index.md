@@ -9,18 +9,18 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Working experience ##
 
 **Satellogic** (2017-)
- >[VP, Impact](http://www.satellogic.com). Vicepresident for Impact. Responsible for strategy and projects with Social and/or environmental primary objectives. Satellogic builds and operates high Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2017 we have 5 satellites operating in Space. Based in Buenos Aires and Spain.
+ >[VP, Impact](http://www.satellogic.com). Vice-president for Impact. Responsible for strategy and projects with Social and environmental primary objectives. Satellogic builds and operates high-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2017, we have five satellites operating in Space. Based in Buenos Aires and Spain.
 
 **World Bank** (2015-2017)
- >[Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC.
+ >[Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
 
 **Mapbox** (2013-2015)
- >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, specially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco.
+ >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, especially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco. Currently, investor and advisor.
 
 **Global Adaptation Institute** (2011-2013)
- >Director of Science and Technology. Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame). Gain is a private sector led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
+ >Director of Science and Technology. Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame). Gain is a private sector-led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
 
-**The National Academies on Science, Engineering and Medicine** (2010)
+**The National Academies of Science, Engineering and Medicine** (2010)
 > Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey). Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.  Based in Washington DC.
 
 **US Naval Research Laboratory** (2008-2010)
@@ -40,7 +40,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
   * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*, 2016
   * Oxford Said Business School: *Transformational Leadership*, 2015
   * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*, 2014
-* PhD in Solar Physics. Max Planck Institute for Solar System Research, Germany  2005-2008
+* Ph.D. in Solar Physics. Max Planck Institute for Solar System Research, Germany  2005-2008
 * MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
 * B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
 
@@ -48,25 +48,25 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
 * TEDx Gracia. *The Future is not about data*. 2016
 * Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship. 2010
-* PhD (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
+* Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
 * ESA Astronaut Selection preliminary Candidate 2008
-* Max Planck PhD Fellow. 2005-2008
+* Max Planck Ph.D. Fellow. 2005-2008
 
 ## Volunteer work##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. 2009-2016
 * Founding member. ECUSA. 2015-2016
-* Chairman for the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2008-2010
-* Project Manager at AEGEE (NGO). Duties both local and european (Treasurer, Secretary, IT, Logistics). 2003-2008
-* Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004 	
+* Chairman of the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2008-2010
+* Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). 2003-2008
+* Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004     
 * Project Manager of several European Traveling Summer Universities and other international events at the *European Student´s Forum*. 2001-2004
-* ICT Manager of AGORA-AEGEE (major international students conference, +1000 attendees). 2003 	
+* ICT Manager of AGORA-AEGEE (major international students conference, +1000 attendees). 2003     
 
 ## Languages ##
 <table style="align:left; width:50%;"><tr>
-	<td><strong>Spanish </strong>: Native
-	</td><td>	<strong>English</strong>: Fluent
-	</td><td>	<strong>German</strong>: Spoken
-	</td><td>	<strong>French</strong>: Intermediate. </td>
+    <td><strong>Spanish </strong>: Native
+    </td><td>    <strong>English</strong>: Fluent
+    </td><td>    <strong>German</strong>: Spoken
+    </td><td>    <strong>French</strong>: Intermediate. </td>
 </tr></table>
 
 ## Selected talks and articles##
@@ -76,7 +76,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Development Bank, Carnegie Endowment, Tecnológico de Monterrey (Mexico).
 - *2012* Training Workshop at the Engineers Without Borders Conference. Las Vegas, Nevada.
 - *2011* Panelist at “World Climate Summit”. UNFCCC Conference on Climate Change, Durban, South Africa
-- *2009* 	Invited Lecturer “Cátedra Magistral Mutis”. National University of Colombia, Bogotá. (~1600 attendees)
+- *2009*     Invited Lecturer “Cátedra Magistral Mutis”. National University of Colombia, Bogotá. (~1600 attendees)
 
 [[More
 entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
