@@ -9,7 +9,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Working experience ##
 
 **Satellogic** (2017-)
- >[VP, Impact](http://www.satellogic.com). Vice-president for Impact. Responsible for strategy and projects with Social and environmental primary objectives. Satellogic builds and operates high-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2017, we have five satellites operating in Space. Based in Buenos Aires and Spain.
+ >[VP, Impact](http://www.satellogic.com). Vice-president for Impact. Responsible for strategy and projects with Social and environmental primary objectives. Satellogic builds and operates high-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2017, we have five satellites operating in Space. Based in Argentina and Spain.
 
 **World Bank** (2015-2017)
  >[Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
@@ -44,6 +44,12 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
 * B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
 
+## Academic Research
+
+* Ph.D. Dissertation: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
+* 15 peer-reviewed papers. 83+ citations: http://bsan.eu/published-papers
+
+
 ## Selected Awards and Nominations ##
 * [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
 * TEDx Gracia. *The Future is not about data*. 2016
@@ -54,7 +60,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Volunteer work##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. 2009-2016
-* Founding member. ECUSA. 2015-2016
+* Founding member. ECUSA (Spanish Scientists in the USA). 2015-2016
 * Chairman of the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2008-2010
 * Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). 2003-2008
 * Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004     
@@ -69,18 +75,8 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
     </td><td>    <strong>French</strong>: Intermediate. </td>
 </tr></table>
 
-## Selected talks and articles##
-- *2016* TEDx Gracia.
-- *2014* Invited Speaker at the World Economic Forum in Panama.
-- *2012-2011* Presented the GAIN Index in climate change to scientist, NGOs, private and public sector, including:
-OAS ambassadors, USAID, World Bank, US Department of State, Inter-American Development Bank, Carnegie Endowment, Tecnológico de Monterrey (Mexico).
-- *2012* Training Workshop at the Engineers Without Borders Conference. Las Vegas, Nevada.
-- *2011* Panelist at “World Climate Summit”. UNFCCC Conference on Climate Change, Durban, South Africa
-- *2009*     Invited Lecturer “Cátedra Magistral Mutis”. National University of Colombia, Bogotá. (~1600 attendees)
 
-[[More
-entries](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) at the NASA ADS database]
-
+<hr>
 <p>
 <a href="https://www.linkedin.com/pub/bruno-sanchez-andrade-nu%C3%B1o/6/a8b/180" target="_blank">
 <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Bruno Sanchez-Andrade Nuño's profile on LinkedIn" border="0" width="160" height="33"></a></p>
