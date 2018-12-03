@@ -12,13 +12,13 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
  >[VP, Impact](http://www.satellogic.com). Vice-president for Impact. Responsible for strategy and projects with Social and environmental primary objectives. Satellogic builds and operates high-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2017, we have five satellites operating in Space. Based in Argentina and Spain.
 
 **World Bank** (2015-2017)
- >[Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
+ >[Data Scientist at Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
 
 **Mapbox** (2013-2015)
- >Chief Scientist during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, especially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco. Currently, investor and advisor.
+ >[Chief Scientist](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801) during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, especially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco. Currently, investor and advisor.
 
 **Global Adaptation Institute** (2011-2013)
- >Director of Science and Technology. Visiting Scholar at the [Environmental Change Inititative](http://environmentalchange.nd.edu/) (University of Notre Dame). Gain is a private sector-led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
+ >[Director of Science and Technology](http://index.gain.org). Visiting Scholar at the Environmental Change Inititative (University of Notre Dame). Gain is a private sector-led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
 
 **The National Academies of Science, Engineering and Medicine** (2010)
 > Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey). Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.  Based in Washington DC.
@@ -47,7 +47,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Academic Research
 
 * Ph.D. Dissertation: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
-* 15 peer-reviewed papers. 83+ citations: http://bsan.eu/published-papers
+* 15 peer-reviewed papers. 83+ citations: [http://bsan.eu/published-papers](http://bsan.eu/published-papers)
 
 
 ## Selected Awards and Nominations ##
