@@ -32,12 +32,9 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Active Boards and Councils ##
 
 * Strategic Advisory Board. Inmarsat, International Partnership Programme.
-* Member of the *World Economic Forum*, "Expert Network" and "Global Future Council on Space".
-* International Advisory Council. UAE Federal Competitiveness and Statistics Authority.
-
+* Member of the *World Economic Forum*, "Expert Network".
 
 ## Education ##
-
 * Executive Modules:
   * Harvard Kennedy School Education Module: *Global Leadership and Public Policy for the 21st Century*, 2017
   * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*, 2016
@@ -49,7 +46,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Academic Research
 
-* Ph.D. Dissertation: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
+* Ph.D.: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
 * 15 peer-reviewed papers. 83+ citations: [http://bsan.eu/published-papers](http://bsan.eu/published-papers)
 
 
@@ -59,16 +56,13 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship. 2010
 * Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
 * ESA Astronaut Selection preliminary Candidate 2008
-* Max Planck Ph.D. Fellow. 2005-2008
 
 ## Volunteer work ##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. 2009-2016
 * Founding member. ECUSA (Spanish Scientists in the USA). 2015-2016
-* Chairman of the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2008-2010
 * Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). 2003-2008
 * Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004     
 * Project Manager of several European Traveling Summer Universities and other international events at the *European Student´s Forum*. 2001-2004
-* ICT Manager of AGORA-AEGEE (major international students conference, +1000 attendees). 2003     
 
 ## Languages ##
 <table style="align:left; width:50%;"><tr>
@@ -78,14 +72,10 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
     </td><td>    <strong>French</strong>: Intermediate. </td>
 </tr></table>
 
-
-<hr>
-<p>
-<a href="https://www.linkedin.com/pub/bruno-sanchez-andrade-nu%C3%B1o/6/a8b/180" target="_blank">
-<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Bruno Sanchez-Andrade Nuño's profile on LinkedIn" border="0" width="160" height="33"></a></p>
-
 <footer>
 <div align="center">
 Updated: {{ site.time | date_to_long_string }}
 </div>
+<a href="https://www.linkedin.com/pub/bruno-sanchez-andrade-nu%C3%B1o/6/a8b/180" target="_blank">
+<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Bruno Sanchez-Andrade Nuño's profile on LinkedIn" border="0" width="160" height="33"></a>
 </footer>
