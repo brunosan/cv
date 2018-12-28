@@ -9,7 +9,10 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Working experience ##
 
 **Satellogic** (2017-)
- >[VP, Impact](http://www.satellogic.com). Vice-president for Impact. Responsible for strategy and projects with Social and environmental primary objectives. Satellogic builds and operates high-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2017, we have five satellites operating in Space. Based in Argentina and Spain.
+ >[Vice-President, Social Impact](http://www.satellogic.com). Responsible for strategy and projects with Social and environmental beneficts as primary objectives. Satellogic builds and operates High-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2018, we have five satellites operating in Space. Based in Argentina and Spain.
+
+**Independent Consultant/Advisor** (2017-)
+ >Several Impact Science projects. Some as continuation of previous positions, like Satellite Nightlightlights with the World Bank, or advisor to Mapbox. Other projects include fostering enterpreneurship skills in Kakuma refugee camp, workshops on Data Science in Cape Town, factory logistics advisory in Bhutan, advisor on competitivness for the UAE goverment, or advisory on the SDG framework as a market opportunity for a telecomunications global company.    
 
 **World Bank** (2015-2017)
  >[Data Scientist at Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
@@ -58,7 +61,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * ESA Astronaut Selection preliminary Candidate 2008
 * Max Planck Ph.D. Fellow. 2005-2008
 
-## Volunteer work##
+## Volunteer work ##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. 2009-2016
 * Founding member. ECUSA (Spanish Scientists in the USA). 2015-2016
 * Chairman of the Solar Group for the International Year of Astronomy 2009 (endorsed by UNESCO). 2008-2010
