@@ -9,10 +9,10 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Working experience ##
 
 **Satellogic** (2017-)
- >[Vice-President, Social Impact](http://www.satellogic.com). Responsible for strategy and projects with Social and environmental beneficts as primary objectives. Satellogic builds and operates High-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2018, we have five satellites operating in Space. Based in Argentina and Spain.
+ >[Vice-President, Social Impact](http://www.satellogic.com). Responsible for strategy and projects with Social and environmental benefits as primary objectives. Satellogic builds and operates High-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2018, we have five satellites operating in Space. Based in Argentina and Spain.
 
 **Independent Consultant/Advisor** (2017-)
- >Several Impact Science projects. Some as continuation of previous positions, like Satellite Nightlightlights with the World Bank, or advisor to Mapbox. Other projects include fostering enterpreneurship skills in Kakuma refugee camp, workshops on Data Science in Cape Town, factory logistics advisory in Bhutan, advisor on competitivness for the UAE goverment, or advisory on the SDG framework as a market opportunity for a telecomunications global company.    
+ >Several Impact Science projects. Some as a continuation of previous positions, like Satellite Nightlightlights with the World Bank, or advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, workshops on Data Science in Cape Town, factory logistics advisory in Bhutan, advisor on competitiveness for the UAE government, or advisory on the SDG framework as a market opportunity for a telecommunications global company.    
 
 **World Bank** (2015-2017)
  >[Data Scientist at Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
@@ -21,7 +21,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
  >[Chief Scientist](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801) during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, especially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco. Currently, investor and advisor.
 
 **Global Adaptation Institute** (2011-2013)
- >[Director of Science and Technology](http://index.gain.org). Visiting Scholar at the Environmental Change Inititative (University of Notre Dame). Gain is a private sector-led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
+ >[Director of Science and Technology](http://index.gain.org). Visiting Scholar at the Environmental Change Initiative (University of Notre Dame). Gain is a private sector-led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
 
 **The National Academies of Science, Engineering and Medicine** (2010)
 > Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey). Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.  Based in Washington DC.
