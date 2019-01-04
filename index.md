@@ -35,14 +35,16 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Member of the *World Economic Forum*, "Expert Network".
 
 ## Education ##
+* Ph.D. in Solar Physics. Max Planck Institute for Solar System Research, Germany  2005-2008
+* MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
+* B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
 * Executive Modules:
+  * Princeton University, Andlinger Center for Energy and the Environment: *Leadership in Energy Innovation and Environmental Considerations*, 2018
   * Harvard Kennedy School Education Module: *Global Leadership and Public Policy for the 21st Century*, 2017
   * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*, 2016
   * Oxford Said Business School: *Transformational Leadership*, 2015
   * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*, 2014
-* Ph.D. in Solar Physics. Max Planck Institute for Solar System Research, Germany  2005-2008
-* MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
-* B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
+
 
 ## Academic Research
 
