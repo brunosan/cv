@@ -7,16 +7,18 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
 *Bruno is committed to bringing the value of “Impact Science”. (“Impact Science” is to data science, what impact investment is to investment) Experience in the public sector, at the World Bank; the private sector, as Chief Scientist at Mapbox, and VP for Social Impact at Satellogic; the non-profit sector, as Director of Science and Technology at the climate change NGO Gain.org; and in academia, with a Ph.D. Magna cum Laude in astrophysics from the Max Planck Institute, and postdoc with NRL/JAXA/NASA.*
+
 ## Working experience ##
 
-**Satellogic** (2017-)
- >[Vice-President, Social Impact](http://www.satellogic.com). Responsible for strategy and projects with Social and environmental benefits as primary objectives. Satellogic builds and operates High-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2018, we have five satellites operating in Space. Based in Argentina and Spain.
+**Independent Consultant** (2017-)
+ >Several Impact Science projects. Some projects as a continuation of previous positions, like the World Bank's Satellite Nightlights, or Science advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on Data Science in Cape Town, building the logistics software for a hazelnut company in Bhutan, or advisor on competitiveness for the UAE government.
 
-**Independent Consultant/Advisor** (2017-)
- >Several Impact Science projects. Some as a continuation of previous positions, like Satellite Nightlightlights with the World Bank, or advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, workshops on Data Science in Cape Town, factory logistics advisory in Bhutan, advisor on competitiveness for the UAE government, or advisory on the SDG framework as a market opportunity for a telecommunications global company.    
+ **Satellogic** (2017-2019)
+ >[Vice-President, Social Impact](http://www.satellogic.com). Responsible for strategy and projects with social and environmental benefits as primary objectives. *Satellogic*, based in Argentina and Spain, builds and operates High-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2019, it has a constellation of five satellites operating in low Earth-Orbit. Currently, investor and advisor.
+
 
 **World Bank** (2015-2017)
- >[Data Scientist at Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing Big Data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
+ >[Data Scientist at Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing big data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
 
 **Mapbox** (2013-2015)
  >[Chief Scientist](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801) during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, especially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco. Currently, investor and advisor.
@@ -24,19 +26,20 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 **Global Adaptation Institute** (2011-2013)
  >[Director of Science and Technology](http://index.gain.org). Visiting Scholar at the Environmental Change Initiative (University of Notre Dame). Gain is a private sector-led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
 
-**The National Academies of Science, Engineering and Medicine** (2010)
-> Science and Technology Policy Fellow. Advisory and Coordination setting the priorities framework of investment on Research (Decadal Survey). Awarded [Mirzayan Fellowship](http://sites.nationalacademies.org/PGA/policyfellows/index.htm). Project Management on: NASA decadal strategic recommendation, Crowdsourcing tools.  Based in Washington DC.
-
 **US Naval Research Laboratory** (2008-2010)
 > NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University. Space Science Division of the Naval Research Laboratory. Satellite and rocket missions. Project implementation, Calibration data analysis, and visualizations.  Based in Washington DC.
 
-## Active Boards and Councils ##
 
-* Strategic Advisory Board. Inmarsat, International Partnership Programme.
-* Member of the *World Economic Forum*, "Expert Network".
+
+## Selected Awards and Nominations ##
+* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
+* TEDx Gracia. *The Future is not about data*. 2016
+* Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
+* ESA Astronaut Selection preliminary Candidate 2008
 
 ## Education ##
 * Ph.D. in Solar Physics. Max Planck Institute for Solar System Research, Germany  2005-2008
+* [Mirzayan](http://sites.nationalacademies.org/PGA/policyfellows/index.htm) S&T Policy Fellow of the US National Academies of Science (2010)
 * MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
 * B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
 * Executive Modules:
@@ -46,33 +49,31 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
   * Oxford Said Business School: *Transformational Leadership*, 2015
   * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*, 2014
 
+## Active Boards and Councils ##
+
+* Strategic Advisory Board. Inmarsat, International Partnership Programme.
+* Advisory Board, IamtheCODE. NGO to promote coding skills for girls and women.
+* Member of the *World Economic Forum*, "Expert Network".
 
 ## Academic Research
 
 * Ph.D.: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
-* 15 peer-reviewed papers. 83+ citations: [http://bsan.eu/published-papers](http://bsan.eu/published-papers)
+* 15 peer-reviewed papers. 87+ citations: [http://bsan.eu/published-papers](http://bsan.eu/published-papers)
 
-
-## Selected Awards and Nominations ##
-* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
-* TEDx Gracia. *The Future is not about data*. 2016
-* Mirzayan Fellow: The National Academies Mirzayan Science & Technology Policy Fellowship. 2010
-* Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
-* ESA Astronaut Selection preliminary Candidate 2008
 
 ## Volunteer work ##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. 2009-2016
 * Founding member. ECUSA (Spanish Scientists in the USA). 2015-2016
 * Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). 2003-2008
 * Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004     
-* Project Manager of several European Traveling Summer Universities and other international events at the *European Student´s Forum*. 2001-2004
+* Project Manager of several European Traveling Summer Universities at the *European Student´s Forum*. 2001-2004
 
 ## Languages ##
 <table style="align:left; width:50%;"><tr>
     <td><strong>Spanish </strong>: Native
     </td><td>    <strong>English</strong>: Fluent
     </td><td>    <strong>German</strong>: Spoken
-    </td><td>    <strong>French</strong>: Intermediate. </td>
+    </td><td>    <strong>French</strong>: Basic. </td>
 </tr></table>
 
 <footer>
