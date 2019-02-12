@@ -1,0 +1,20 @@
+
+#resume:before {
+  content:"Online version: cv.brunosan.eu";
+  position: inherit;
+  font-weight:bold;
+  top: 0px;
+  right: 0px;
+}
+
+h2 {
+    page-break-inside: avoid;
+}
+h2::after {
+    h2::after,content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+}
+
+p, blockquote {page-break-inside: avoid;}
