@@ -89,7 +89,7 @@ header h2 {
   letter-spacing: -1px;
   color: #303030;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 150%;
   line-height: 1.3;
 }
 
@@ -152,30 +152,29 @@ h2 {
   color: #d5000d;
   font-size: 150% ;
   position: relative;
-  left: -25px;
   margin-bottom: 8px;
   font-weight: normal;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 100%;
   font-weight: bold;
   margin-bottom: 8px;
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 100%;
   color: #303030;
   font-weight: bold;
 }
 
 h5 {
-  font-size: 1em;
+  font-size: 100%;
   color: #303030;
 }
 
 h6 {
-  font-size: .8em;
+  font-size: 80%;
   color: #303030;
 }
 
@@ -240,13 +239,3 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
-
-
-
-@media screen and (max-width:8.5in) { /* resize your window until the event is triggered */
-  html { width:8.5in; }
-  body {
-    font: 9pt/1.5 Arial, sans-serif;
-  background: none;
-  } /* Roughly 12px font */
-}
