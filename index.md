@@ -6,9 +6,12 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
-*Bruno is committed to bringing the value of “Impact Science” (“Impact Science” is to data science, what impact investment is to investment). Experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA).*
+*Bruno has experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA).*
 
 ## Working experience ##
+
+**Political Candidate** (2019)
+ >[Volt Europa](https://www.volteuropa.org/) is the first political movement to establish the same party and program across Europe. In the European Elections 2019 we run from 8 countries. I was voted head of the list from Volt Spain. In the elections we got +32.000 votes in Spain, with a campaign cost per vote of 0.25 euros, a record of campaign efficiency, but far from the 300k votes needed. Across Europe Volt Europa gathered 0.5 million votes, validating this political innovation, and electing one MEP, in Germany.
 
 **Independent Consultant** (2017-)
  >Several Impact Science projects. Some projects as a continuation of previous positions, like the World Bank's Satellite Nightlights, or Science advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on Data Science in Cape Town, building the logistics software for a hazelnut company in Bhutan, or advisor on competitiveness for the UAE government.
