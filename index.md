@@ -10,9 +10,6 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Working experience ##
 
-**Political Candidate** (2019)
- >[Volt Europa](https://www.volteuropa.org/) is the first political movement to establish the same party and program across Europe. In the European Elections 2019 we run from 8 countries. I was voted head of the list from Volt Spain. In the elections we got +32.000 votes in Spain, with a campaign cost per vote of 0.25 euros, a record of campaign efficiency, but far from the 300k votes needed. Across Europe Volt Europa gathered 0.5 million votes, validating this political innovation, and electing one MEP, in Germany.
-
 **Independent Consultant** (2017-)
  >Several Impact Science projects. Some projects as a continuation of previous positions, like the World Bank's Satellite Nightlights, or Science advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on Data Science in Cape Town, building the logistics software for a hazelnut company in Bhutan, or advisor on competitiveness for the UAE government.
 
@@ -58,6 +55,10 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Advisory Board, IamtheCODE. NGO to promote coding skills for girls and women.
 * Member of the *World Economic Forum*, "Expert Network".
 
+## Books
+
+* [Impact Science: The science of getting to radical social and environmental breakthroughs](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1). Content also available online at [impactscience.dev](https://impactscience.dev/) [June 2019]
+
 ## Academic Research
 
 * Ph.D.: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
@@ -70,6 +71,9 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). 2003-2008
 * Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004     
 * Project Manager of several European Traveling Summer Universities at the *European Student´s Forum*. 2001-2004
+* Political Candidate (2019):
+ >[Volt Europa](https://www.volteuropa.org/) is the first political movement to establish the same party and program across Europe. In the European Elections 2019 we ran from 8 countries. I was voted head of the list from Volt Spain. In the elections we got +32.000 votes in Spain, with a campaign cost per vote of 0.25 euros, a record of campaign efficiency, but far from the 300k votes needed. Across Europe Volt Europa gathered 0.5 million votes, validating this political innovation, and electing one MEP, in Germany.
+
 
 ## Languages ##
 <table style="align:left; width:50%;"><tr>
