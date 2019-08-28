@@ -10,8 +10,8 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Working experience ##
 
-**Independent Consultant** (2017-)
- >Several Impact Science projects. Some projects as a continuation of previous positions, like the World Bank's Satellite Nightlights, or Science advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on Data Science in Cape Town, building the logistics software for a hazelnut company in Bhutan, or advisor on competitiveness for the UAE government.
+**Author / Independent Consultant** (2017-)
+ >Author of [Impact Science: The science of getting to radical social and environmental breakthroughs](https://www.amazon.com/gp/product/B07SN1L4L2/ref=cv). Freelance on several impact science projects. Some projects as a continuation of previous positions, like the World Bank's Satellite Nightlights, or acting as science advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on Data Science in Cape Town, building the logistics software for a hazelnut company in Bhutan, or advisor on competitiveness for the UAE government.
 
  **Satellogic** (2017-2019)
  >[Vice-President, Social Impact](http://www.satellogic.com). Responsible for strategy and projects with social and environmental benefits as primary objectives. *Satellogic*, based in Argentina and Spain, builds and operates High-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2019, it has a constellation of five satellites operating in low Earth-Orbit. Currently, investor and advisor.
