@@ -18,7 +18,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 
 **World Bank** (2015-2017)
- >[Data Scientist at Innovation Labs and Office of the President](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing big data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Based in Washington DC. Currently, consultant to several projects.
+ >[Data Scientist at Innovation Labs](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing big data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Member of the *President's Delivery Unit*. Based in Washington DC. Currently, consultant to several projects.
 
 **Mapbox** (2013-2015)
  >[Chief Scientist](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801) during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, especially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco. Currently, investor and advisor.
