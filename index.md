@@ -6,7 +6,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
-*Bruno has experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA).*
+*Bruno has experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA). 15+ years of experience building and managing Data Science teams.*
 
 ## Working experience ##
 
