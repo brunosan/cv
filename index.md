@@ -54,6 +54,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Strategic Advisory Board. Inmarsat, International Partnership Programme.
 * Advisory Board, IamtheCODE. NGO to promote coding skills for girls and women.
 * Member of the *World Economic Forum*, "Expert Network".
+* Board Member [Volt Europa](https://www.volteuropa.org/), the first pan-european  political movement, with the same program across Europe. In the European Parliamentarian Elections 2019 we ran from 8 countries, gathered 0.5 million votes, and one MEP.
 
 ## Books
 
@@ -71,8 +72,6 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). 2003-2008
 * Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004     
 * Project Manager of several European Traveling Summer Universities at the *European Student´s Forum*. 2001-2004
-* Political Candidate (2019):
- >[Volt Europa](https://www.volteuropa.org/) is the first political movement to establish the same party and program across Europe. In the European Elections 2019 we ran from 8 countries. I was voted head of the list from Volt Spain. In the elections we got +32.000 votes in Spain, with a campaign cost per vote of 0.25 euros, a record of campaign efficiency, but far from the 300k votes needed. Across Europe Volt Europa gathered 0.5 million votes, validating this political innovation, and electing one MEP, in Germany.
 
 
 ## Languages ##
