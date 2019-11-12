@@ -63,7 +63,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Academic Research
 
 * Ph.D.: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
-* 15 peer-reviewed papers. 87+ citations: [http://bsan.eu/published-papers](http://bsan.eu/published-papers)
+* 15 peer-reviewed papers. 64+ citations: [http://bsan.eu/published-papers](http://bsan.eu/published-papers)
 
 
 ## Volunteer work ##
