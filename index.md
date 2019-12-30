@@ -32,7 +32,8 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 
 ## Selected Awards and Nominations ##
-* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013-2018
+* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013
+* [Choiseul Economic Leader](https://www.expansion.com/sociedad/2019/12/20/5dfc97d0468aeb66498b4580.html). 2019
 * TEDx Gracia. *The Future is not about data*. 2016
 * Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
 * ESA Astronaut Selection preliminary Candidate 2008
