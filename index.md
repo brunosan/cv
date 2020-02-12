@@ -11,55 +11,69 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Working experience ##
 
 **"Impact Science.dev" Consulting** (2017-)
- >[Boutique consulting](https://impactscience.dev/) on Impact Science. Some clients as a continuation of previous positions, like the World Bank's Satellite Nightlights, or acting as science advisor to Mapbox. Other projects include fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on Data Science in Cape Town, building the logistics software for a hazelnut company in Bhutan, or advisor on competitiveness for the UAE government. Our methodology has been published on [Impact Science: The science of getting to radical social and environmental breakthroughs](https://www.amazon.com/gp/product/B07SN1L4L2/ref=cv).
+ >[Director](https://impactscience.dev/)
+ * Ongoing relationships with previous clients and projects, such as Satellite Nightlights at the World Bank or global methods for transportation network assessment at Mapbox.
+ * New projects include government policy making with a Big Three consultancy client, fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on data science in Cape Town, building the logistics software for a hazelnut company in Bhutan, and advising on competitiveness for the UAE government.
+ * The methodology has been published at Impact Science: The science of getting to radical social and environmental breakthroughs ( book.impactscience.dev )
 
  **Satellogic** (2017-2019)
- >[Vice-President, Social Impact](http://www.satellogic.com). Responsible for strategy and projects with social and environmental benefits as primary objectives. *Satellogic*, based in Argentina and Spain, builds and operates High-Resolution multi- and hyper-spectral imaging Earth Observation Satellites; and offer solutions based on advanced Data Analytics. As of 2019, it has a constellation of five satellites operating in low Earth-Orbit. Currently, investor and advisor.
+ >[Vice-President, Social Impact](http://www.satellogic.com).
+ * Responsible for strategy and projects of high-resolution multi and hyper-spectral imaging Earth Observation Satellites and advanced data analytics for social and environmental outcomes.
+ * Current investor and advisor.
 
 
 **World Bank** (2015-2017)
- >[Data Scientist at Innovation Labs](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value). Technical lead on bringing big data into operations across the Institution and clients around the World. Accelerator portfolio projects: 20+ projects, USD500MM+. Member of the *President's Delivery Unit*. Based in Washington DC. Currently, consultant to several projects.
+ >[Data Scientist at Innovation Labs](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value).
+ * Technical lead on bringing big data into operations across the institution and clients around the world.
+ * Accelerator portfolio projects: 20+ projects, USD500MM+.
+ * Member of the President’s Delivery Unit.
+ * Current consultant to several projects.
 
 **Mapbox** (2013-2015)
- >[Chief Scientist](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801) during 10-fold growth from series A to series B investment rounds, leading their scientific work across the company, especially on remote sensing and satellite, and supporting our international clients. [Mapbox](http://mapbox.com) is a full-service cloud-based mapping platform.  Based in Washington DC and San Francisco. Currently, investor and advisor.
+ >[Chief Scientist](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801)
+ * During 10-fold growth from series A to series B investment rounds, led scientific work across the company, especially on remote sensing and satellite, and supported our international clients.
+ * Current investor and advisor.
 
 **Global Adaptation Institute** (2011-2013)
- >[Director of Science and Technology](http://index.gain.org). Visiting Scholar at the Environmental Change Initiative (University of Notre Dame). Gain is a private sector-led non-profit focused on resilience to climate change. [index.gain.org](http://index.gain.org).  Based in Washington DC.
+ >[Director of Science and Technology](http://index.gain.org).
+ * Gain is a private sector-led non-profit focused on resilience to climate change. Visiting Scholar at the Environmental Change Initiative (University of Notre Dame).
 
 **US Naval Research Laboratory** (2008-2010)
-> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University. Space Science Division of the Naval Research Laboratory. Satellite and rocket missions. Project implementation, Calibration data analysis, and visualizations.  Based in Washington DC.
+> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University.
+ * Space Science Division of the Naval Research Laboratory.
+ * Satellite and rocket missions. Project implementation, calibration data analysis, and visualizations.
 
 
 
 ## Selected Awards and Nominations ##
-* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). 2013
-* [Choiseul Economic Leader](https://www.expansion.com/sociedad/2019/12/20/5dfc97d0468aeb66498b4580.html). 2019
-* TEDx Gracia. *The Future is not about data*. 2016
-* Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany 2008
-* ESA Astronaut Selection preliminary Candidate 2008
+* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). (2013)
+* [Choiseul Economic Leader](https://www.expansion.com/sociedad/2019/12/20/5dfc97d0468aeb66498b4580.html). (2019)
+* TEDx Gracia. *The Future is not about data*. (2016)
+* Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
+* ESA Astronaut Selection preliminary Candidate (2008)
 
 ## Education ##
-* Ph.D. in Solar Physics. Max Planck Institute for Solar System Research, Germany  2005-2008
+* Ph.D. in Solar Physics. Max Planck Institute for Solar System Research, Germany  (2005-2008)
 * [Mirzayan](http://sites.nationalacademies.org/PGA/policyfellows/index.htm) S&T Policy Fellow of the US National Academies of Science (2010)
-* MSc in Astrophysics. Universidad de La Laguna. Tenerife (Spain) 1999-2004
-* B.A. in Physics. Universidad de Oviedo, Spain 1999-2003
+* MSc in Astrophysics. Universidad de La Laguna. Tenerife, Spain (1999-2004)
+* B.A. in Physics. Universidad de Oviedo, Spain (1999-2003)
 * Executive Modules:
-  * Princeton University, Andlinger Center for Energy and the Environment: *Leadership in Energy Innovation and Environmental Considerations*, 2018
-  * Harvard Kennedy School Education Module: *Global Leadership and Public Policy for the 21st Century*, 2017
-  * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*, 2016
-  * Oxford Said Business School: *Transformational Leadership*, 2015
-  * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*, 2014
+  * Princeton University, Andlinger Center for Energy and the Environment: *Leadership in Energy Innovation and Environmental Considerations*. (2018)
+  * Harvard Kennedy School Education Module: *Global Leadership and Public Policy for the 21st Century*. (2017)
+  * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*. (2016)
+  * Oxford Said Business School: *Transformational Leadership*. (2015)
+  * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*. (2014)
 
 ## Active Boards and Councils ##
 
 * Strategic Advisory Board. Inmarsat, International Partnership Programme.
 * Advisory Board, IamtheCODE. NGO to promote coding skills for girls and women.
 * Member of the *World Economic Forum*, "Expert Network".
-* Board Member [Volt Europa](https://www.volteuropa.org/), the first pan-european  political movement, with the same program across Europe. In the European Parliamentarian Elections 2019 we ran from 8 countries, gathered 0.5 million votes, and one MEP.
+* Board Member [Volt Europa](https://www.volteuropa.org/), the first pan-european  social movement, with the same program across Europe. In the European Parliamentarian Elections 2019 we ran from 8 countries, gathered 0.5 million votes, and one MEP.
 
 ## Books
 
-* [Impact Science: The science of getting to radical social and environmental breakthroughs](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1). Content also available online at [impactscience.dev](https://impactscience.dev/) [June 2019]
+* [Impact Science: The science of getting to radical social and environmental breakthroughs](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1). Content also available online at [impactscience.dev](https://impactscience.dev/) (2019)
 
 ## Academic Research
 
@@ -68,11 +82,11 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 
 ## Volunteer work ##
-* Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. 2009-2016
-* Founding member. ECUSA (Spanish Scientists in the USA). 2015-2016
-* Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). 2003-2008
-* Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. 1999-2004     
-* Project Manager of several European Traveling Summer Universities at the *European Student´s Forum*. 2001-2004
+* Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. (2009-2016)
+* Founding member. ECUSA (Spanish Scientists in the USA). (2015-2016)
+* Project Manager at AEGEE (NGO). Duties both local and European (Treasurer, Secretary, IT, Logistics). (2003-2008)
+* Member of Civil Protection in Gijón. Firemen, Police & Paramedics support. +400 hours of duty service. (1999-2004)     
+* Project Manager of several European Traveling Summer Universities at the *European Student´s Forum*. (2001-2004)
 
 
 ## Languages ##
