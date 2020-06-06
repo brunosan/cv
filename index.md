@@ -15,7 +15,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
  * Helping build the [Planetary Computer](https://innovation.microsoft.com/en-us/planetary-computer).
 
 
-**"Impact Science.dev" Consulting** (2017-)
+**"Impact Science.dev" Consulting** (2017-2020)
  >[Director](https://impactscience.dev/)
  * Ongoing relationships with previous clients and projects, such as Satellite Nightlights at the World Bank or global methods for transportation network assessment at Mapbox.
  * New projects include government policy making with a Big Three consultancy client, fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on data science in Cape Town, building the logistics software for a hazelnut company in Bhutan, and advising on competitiveness for the UAE government.
