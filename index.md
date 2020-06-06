@@ -10,7 +10,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Working experience ##
 
-**Microsoft "AI for Earth"** (2020-217)
+**Microsoft "AI for Earth"** (2020-)
 >[Principal Scientist](https://www.microsoft.com/en-us/ai/ai-for-earth)
  * Helping build the [Planetary Computer](https://innovation.microsoft.com/en-us/planetary-computer).
 
