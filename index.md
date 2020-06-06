@@ -10,6 +10,11 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Working experience ##
 
+**Microsoft "AI for Earth"** (2020-217)
+>[Principal Scientist](https://www.microsoft.com/en-us/ai/ai-for-earth)
+ * Helping build the [Planetary Computer](https://innovation.microsoft.com/en-us/planetary-computer).
+
+
 **"Impact Science.dev" Consulting** (2017-)
  >[Director](https://impactscience.dev/)
  * Ongoing relationships with previous clients and projects, such as Satellite Nightlights at the World Bank or global methods for transportation network assessment at Mapbox.
