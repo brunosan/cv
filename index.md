@@ -12,7 +12,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 **Microsoft "AI for Earth"** (2020-)
 >[Program Director and Principal Scientist](https://www.microsoft.com/en-us/ai/ai-for-earth)
- * A 50MM+ Microsoft program to change the way people and organizations monitor, model, and manage Earth’s natural systems, which includes grants, tehnology, hosting, and building a [Planetary Computer](https://planetarycomputer.microsoft.com/).
+ * A $50MM+ Microsoft program to change the way people and organizations monitor, model, and manage Earth’s natural systems, which includes grants, tehnology, hosting, and building a [Planetary Computer](https://planetarycomputer.microsoft.com/).
 
 
 **"Impact Science.dev" Consulting** (2017-2020)
