@@ -6,13 +6,13 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
-*Bruno has experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA). 15+ years of experience building and managing Data Science teams.*
+*Bruno has experience in the public sector (World Bank); the private sector (Microsoft Program Director, Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA). 15+ years of experience building and managing Data Science teams.*
 
 ## Working experience ##
 
 **Microsoft "AI for Earth"** (2020-)
->[Principal Scientist](https://www.microsoft.com/en-us/ai/ai-for-earth)
- * Helping build the [Planetary Computer](https://innovation.microsoft.com/en-us/planetary-computer).
+>[Program Director and Principal Scientist](https://www.microsoft.com/en-us/ai/ai-for-earth)
+ * A 50MM+ Microsoft program to change the way people and organizations monitor, model, and manage Earth’s natural systems, which includes grants, tehnology, hosting, and building a [Planetary Computer](https://planetarycomputer.microsoft.com/).
 
 
 **"Impact Science.dev" Consulting** (2017-2020)
