@@ -75,6 +75,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Advisory Board, IamtheCODE. NGO to promote coding skills for girls and women.
 * Member of the *World Economic Forum*, "Expert Network".
 * Board Member [Volt Europa](https://www.volteuropa.org/), the first pan-european  social movement, with the same program across Europe. In the European Parliamentarian Elections 2019 we ran from 8 countries, gathered 0.5 million votes, and one MEP.
+* Advisory Board member. [Secure World Fundation](https://swfound.org/)
 
 ## Books
 
