@@ -6,15 +6,14 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
-*Bruno has more than 15 years of experience working on climate change and social issues, whithin the public sector (World Bank); the private sector (Microsoft Director, Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA). 15+ years of experience building and managing Data Science teams.*
+*Bruno has more than 15 years of experience working on climate change and social issues, within the public sector (World Bank); the private sector (Microsoft Director, Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO "Gain"); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA). 15+ years of experience building and managing Data Science teams.*
 
 ## Working experience ##
 
-**Microsoft "AI for Earth"** (2020-)
->[Program Director and Principal Scientist](https://www.microsoft.com/en-us/ai/ai-for-earth)
- * A $50MM+ Microsoft program to change the way people and organizations monitor, model, and manage Earth’s natural systems. The program includes grants, technology, hosting, and events.
- * As part of the program, direct the Microsoft's [Planetary Computer](https://planetarycomputer.microsoft.com/), including strategy, hiring the engineering team, external relationships, budgeting and day to day operations.
-
+**Microsoft "Planetary Computer"** (2020-)
+>[Program Director and Principal Scientist](https://planetarycomputer.microsoft.com/)
+ * I direct Microsoft's [Planetary Computer](https://planetarycomputer.microsoft.com/), including strategy, hiring the engineering team, external relationships, budgeting and day to day operations. It's the leading open geospatial platform with +40PB of data, fully indexed, and a scalable compute platform.
+ * Part of "AI for Earth", a $50MM+ Microsoft program to change the way people and organizations monitor, model, and manage Earth’s natural systems. The program includes grants, technology, hosting, and events.
 
 **"Impact Science.dev" Consulting** (2017-2020)
  >[Director](https://impactscience.dev/)
