@@ -10,7 +10,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Working experience ##
 
-**Microsoft "Planetary Computer"** (2020-)
+**Microsoft "Planetary Computer"** (2020-2022)
 >[Program Director and Principal Scientist](https://planetarycomputer.microsoft.com/)
  * I direct Microsoft's [Planetary Computer](https://planetarycomputer.microsoft.com/), including strategy, hiring the engineering team, external relationships, budgeting and day to day operations. It's the leading open geospatial platform with +40PB of data, fully indexed, and a scalable compute platform.
  * Part of "AI for Earth", a $50MM+ Microsoft program to change the way people and organizations monitor, model, and manage Earth’s natural systems. The program includes grants, technology, hosting, and events.
