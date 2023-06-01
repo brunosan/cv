@@ -10,16 +10,17 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 ## Working experience ##
 
+**"Impact Science.dev" Consulting** (2017-2023)
+ >[International Freelance Consultant](https://impactscience.dev/)
+ * Clients include World Bank, Mapbox, National Geographic, Inmarsat, HUB Ocean, Middle East Government.
+ * Topics include AI, Big Data, Public policy, Data arquitect, entrepreneurship.
+ * Locations include: Washington DC, Oslo, Kakuma refugee camp, Cape Town, Bhutan, UAE, Saudi, Madrid.
+ * The methodology has been published at Impact Science: The science of getting to radical social and environmental breakthroughs ( book.impactscience.dev )
+
 **Microsoft "Planetary Computer"** (2020-2022)
 >[Program Director and Principal Scientist](https://planetarycomputer.microsoft.com/)
  * I directed the creation and rollout of Microsoft's [Planetary Computer](https://planetarycomputer.microsoft.com/), including strategy, hiring the engineering team, external relationships, budgeting and day to day operations. In 1.5 years it became the market leader of indexed open geospatial data with +54PB of data and scalable compute.
  * I also directed the scheduled sunsetting of "AI for Earth", a $50MM+ Microsoft program to change the way people and organizations monitor, model, and manage Earth’s natural systems. The program included grants, technology, hosting, and events.
-
-**"Impact Science.dev" Consulting** (2017-2020)
- >[Director](https://impactscience.dev/)
- * Clients include previous projects, such as Satellite Nightlights at the World Bank or global methods for transportation network assessment at Mapbox.
- * New projects include government policy making with a Big Three consultancy client, fostering entrepreneurship skills in Kakuma refugee camp, teaching workshops on data science in Cape Town, building the logistics software for a hazelnut company in Bhutan, and advising on competitiveness for the UAE government.
- * The methodology has been published at Impact Science: The science of getting to radical social and environmental breakthroughs ( book.impactscience.dev )
 
  **Satellogic** (2017-2019)
  >[Vice-President, Social Impact](http://www.satellogic.com).
