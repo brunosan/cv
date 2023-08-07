@@ -82,7 +82,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 ## Academic Research ##
 
 * Ph.D.: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
-* Published 15 peer-reviewed papers, receiving 64+ citations. [http://bsan.eu/published-papers](http://bsan.eu/published-papers)
+* Published 15 peer-reviewed papers, receiving 64+ citations. https://scholar.google.com/citations?user=j6dHCcUAAAAJ
 
 ## Volunteer Work ##
 * Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. (2009-2016)
