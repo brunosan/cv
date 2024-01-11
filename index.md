@@ -6,9 +6,15 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 # Bruno Sánchez-Andrade Nuño, PhD #
 +1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
 
-*Bruno has more than 15 years of experience working on climate change, AI, and social issues within various sectors such as the World Bank, Microsoft, and academia. He has ample experience building and managing technical  teams. His key achievements include directing the creation and rollout of Microsoft's Planetary Computer, and leading scientific work across Mapbox.*
+*Bruno has more than 15 years of experience working on climate change, AI, and social issues within various sectors such as the World Bank, Microsoft, and academia.*
 
 ## Working Experience ##
+
+**"Clay", AI for Earth** (2023-)
+>[Executive Director of Clay](https://madewithclay.org/)
+ * Making AI understand Earth, open-source, open-data, and open for business.
+ * We are a nonprofit, started with a $4M raise of venture philantropy.
+ * Co-founded the project, and lead.
 
 **"Impact Science.dev" Consulting** (2017-2023)
  >[International Freelance Consultant](https://impactscience.dev/)
@@ -67,7 +73,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
   * Oxford Said Business School: *Transformational Leadership*. (2015)
   * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*. (2014)
 
-## Boards and Councils ##
+## Former Boards and Councils ##
 
 * Strategic Advisory Board. Inmarsat, International Partnership Programme.
 * Advisory Board, IamtheCODE. NGO promoting coding skills for girls and women.
@@ -94,7 +100,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 
 * Fluent in English and Spanish.
 * Intermediate proficiency in French.
-* Basic proficiency in German.
+* Basic proficiency in German and Danish.
 
 ## Additional Skills ##
 
@@ -107,6 +113,6 @@ title: "CV: Bruno Sánchez-Andrade Nuño"
 * Climate change and environmental policy.
 * Data science for social good.
 * Space exploration and astronomy.
-* Being a Dad, Traveling, Science, and outdoor running.
+* Being a great Dad, Traveling, Science, and outdoor running.
 
 ---
