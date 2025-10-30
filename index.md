@@ -76,7 +76,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño, PhD"
 - **Book:** [*Impact Science: The Science of Getting to Radical Social and Environmental Breakthroughs*](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1) (2019)  
   → Full content available online at [impactscience.dev](https://impactscience.dev/)  
 - **Ph.D. Thesis:** *“Observations, Analysis, and Interpretation (non-LTE) of Chromospheric Structures of the Sun”*  
-- 15 peer-reviewed publications | 60+ citations — [Google Scholar](https://scholar.google.com/citations?user=j6dHCcUAAAAJ)
+- 18 peer-reviewed publications, 130+ citations — [Google Scholar](https://scholar.google.com/citations?user=j6dHCcUAAAAJ)
 
 ---
 
