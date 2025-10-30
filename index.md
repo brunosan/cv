@@ -1,118 +1,97 @@
 ---
 layout: default
-title: "CV: Bruno Sánchez-Andrade Nuño"
+title: "CV: Bruno Sánchez-Andrade Nuño, PhD"
 ---
 
-# Bruno Sánchez-Andrade Nuño, PhD #
-+1 (417) 278-6676 | <brunosan@gmail.com> | [@brunosan](http://twitter.com/brunosan) | [brunosan.eu](http://brunosan.eu)  
+# Bruno Sánchez-Andrade Nuño, PhD  
++1 (417) 278-6676 | <brunosan@gmail.com> | [brunosan.eu](http://brunosan.eu)
 
-*Bruno has more than 15 years of experience working on climate change, AI, and social issues within various sectors such as the World Bank, Microsoft, and academia.*
+*Scientist and entrepreneur with 20+ years of experience at the intersection of AI, climate, and global impact — spanning the World Bank, Microsoft, and academia.*
 
-## Working Experience ##
+---
 
-**"Clay", AI for Earth** (2023-)
->[Executive Director of Clay](https://madewithclay.org/)
- * Making AI understand Earth, open-source, open-data, and open for business.
- * We are a nonprofit, started with a $4M raise of venture philantropy.
- * Co-founded the project, and lead.
+## Professional Experience
 
-**"Impact Science.dev" Consulting** (2017-2023)
- >[International Freelance Consultant](https://impactscience.dev/)
- * Clients include World Bank, Mapbox, National Geographic, Inmarsat, HUB Ocean, Jefa, Satellogic.
- * Work deliverables on AI, Big Data, Public policy, Data architecture, and entrepreneurship.
- * Locations include Washington DC, Oslo, Kakuma refugee camp, Cape Town, Bhutan, UAE, Riyadh, Madrid.
- * Published the methodology at Impact Science: The science of getting to radical social and environmental breakthroughs ([book.impactscience.dev](https://book.impactscience.dev))
+### [Lgnd.io](https://lgnd.io) — *Co-Founder & Chief Scientist* (2024–Present)
+- Building AI to index Earth — making the planet’s data searchable, discoverable, and useful.  
+- Raised [$9M in seed funding](https://techcrunch.com/2025/07/10/lgnd-wants-to-make-chatgpt-for-the-earth/) from top-tier investors.  
+- Leading the scientific direction of geo-embedding research and large-scale AI infrastructure for planetary intelligence.  
 
-**Microsoft "Planetary Computer"** (2020-2022)
->[Program Director and Principal Scientist](https://planetarycomputer.microsoft.com/)
- * Directed the creation and rollout of Microsoft's [Planetary Computer](https://planetarycomputer.microsoft.com/), including strategy, hiring the engineering team, external relationships, budgeting, and day-to-day operations.
- * Directed the scheduled sunsetting of "AI for Earth", a $50MM+ Microsoft program that aimed to change the way people and organizations monitor, model, and manage Earth’s natural systems.
+### [Clay](https://madewithclay.org) — *Executive Director & Co-Founder* (2023–Present)
+- Nonprofit initiative to make AI models that understand Earth — open-source, open-data, and open for business.  
+- Raised $4M in venture philanthropy to build the Clay foundation model for Earth data.  
+- Leading vision, governance, and technical development.  
 
-**Satellogic** (2017-2019)
- >[Vice-President, Social Impact](http://www.satellogic.com)
- * Was responsible for strategy and projects related to high-resolution multi and hyper-spectral imaging Earth Observation Satellites and advanced data analytics for social and environmental outcomes.
- * Currently an investor and advisor.
+### [ImpactScience.dev](https://impactscience.dev) — *Founder & Consultant* (2017–2023)
+- Advised clients including the World Bank, Mapbox, National Geographic, Inmarsat, HUB Ocean, Jefa, and Satellogic.  
+- Delivered projects on AI, data architecture, public policy, and entrepreneurship across 10+ countries.  
+- Authored *[Impact Science](https://book.impactscience.dev)* — a methodology for turning research into measurable environmental and social breakthroughs.  
 
-**World Bank** (2015-2017)
- >[Data Scientist at Innovation Labs](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value)
- * Led technical operations on big data across the institution and clients worldwide.
- * Managed an accelerator portfolio projects with 20+ projects worth USD500MM+.
- * Served as a member of the President’s Delivery Unit.
- * Current consultant to several projects.
+### [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com) — *Program Director & Principal Scientist* (2020–2022)
+- Founded and directed the creation of Microsoft’s Planetary Computer, from strategy to engineering execution.  
+- Oversaw hiring, partnerships, and budget for the global AI for Earth platform.  
+- Managed the transition and sunset of the $50M+ “AI for Earth” program.  
 
-**Mapbox** (2013-2015)
- >[Chief Scientist](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801)
- * Led scientific work across the company, especially on remote sensing and satellite, and supported our international clients during the company's 10-fold growth from series A to series B investment rounds.
- * Currently an investor and advisor.
+### [Satellogic](https://satellogic.com) — *VP, Social Impact* (2017–2019)
+- Designed strategies to leverage high-resolution Earth observation for social and environmental good.  
+- Supported hyperspectral analytics for sustainability applications.  
+- Currently an investor and advisor.  
 
-**Global Adaptation Institute** (2011-2013)
- >[Director of Science and Technology](http://index.gain.org)
- * Gain is a private sector-led non-profit focused on resilience to climate change. Served as a Visiting Scholar at the Environmental Change Initiative (University of Notre Dame).
+### [World Bank](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value) — *Data Scientist, Innovation Labs* (2015–2017)
+- Led technical operations for global big data programs across multiple regions.  
+- Managed a 20-project portfolio totaling over $500M in innovation initiatives.  
+- Served in the President’s Delivery Unit and advised senior leadership on data-driven development.  
 
-**US Naval Research Laboratory** (2008-2010)
-> NASA Contractor at [NRL](http://www.nrl.navy.mil/), Research Assistant Professor from George Mason University
- * Worked at the Space Science Division of the Naval Research Laboratory.
- * Involved in satellite and rocket missions, project implementation, calibration data analysis, and visualizations.
+### [Mapbox](https://blog.mapbox.com/bruno-s-225-nchez-andrade-nu-241-o-joins-mapbox-as-chief-scientist-b3729d019801) — *Chief Scientist* (2013–2015)
+- Directed scientific and satellite work across a 10× scaling period (Series A → Series B).  
+- Advised global enterprise clients and advanced remote sensing initiatives.  
+- Ongoing investor and advisor.  
 
-## Selected Awards and Nominations ##
-* [Young Global Leader](http://www.weforum.org/community/forum-young-global-leaders) of the [World Economic Forum](http://www.weforum.org). (2013)
-* [Choiseul Economic Leader](https://www.expansion.com/sociedad/2019/12/20/5dfc97d0468aeb66498b4580.html). (2019)
-* TEDx Gracia. *The Future is not about data*. (2016)
-* Ph.D. (Dr. rer. nat.) *magna cum laude*. University of Goettingen, Germany (2008)
-* ESA Astronaut Selection preliminary Candidate (2008)
+### [Global Adaptation Institute](http://index.gain.org) — *Director of Science & Technology* (2011–2013)
+- Led development of the Global Adaptation Index (GAIN) for climate resilience assessment.  
+- Visiting Scholar at the Environmental Change Initiative, University of Notre Dame.  
 
-## Education ##
-* Ph.D. in Solar Physics. Max Planck Institute for Solar System Research, Germany  (2005-2008)
-* [Mirzayan](http://sites.nationalacademies.org/PGA/policyfellows/index.htm) S&T Policy Fellow of the US National Academies of Science (2010)
-* MSc in Astrophysics. Universidad de La Laguna. Tenerife, Spain (1999-2004)
-* B.A. in Physics. Universidad de Oviedo, Spain (1999-2003)
-* Executive Modules:
-  * Princeton University, Andlinger Center for Energy and the Environment: *Leadership in Energy Innovation and Environmental Considerations*. (2018)
-  * Harvard Kennedy School Education Module: *Global Leadership and Public Policy for the 21st Century*. (2017)
-  * Stanford Graduate School of Business and Stanford Earth: *Transformative Leadership for Sustainability and Resilience*. (2016)
-  * Oxford Said Business School: *Transformational Leadership*. (2015)
-  * Yale School of Management: *Foundations for Leadership in the 21st Century: Strategic Impact*. (2014)
+### [US Naval Research Laboratory](http://www.nrl.navy.mil/) — *NASA Contractor & Research Assistant Professor* (2008–2010)
+- Worked in the Space Science Division on satellite and rocket missions.  
+- Specialized in calibration, data analysis, and scientific visualization.  
 
-## Former Boards and Councils ##
+---
 
-* Strategic Advisory Board. Inmarsat, International Partnership Programme.
-* Advisory Board, IamtheCODE. NGO promoting coding skills for girls and women.
-* Member of the *World Economic Forum*, "Expert Network".
-* Board Member [Volt Europa](https://www.volteuropa.org/), the first pan-European social movement, with the same program across Europe.
-* Advisory Board member. [Secure World Foundation](https://swfound.org/)
+## Education
+- **Ph.D. in Solar Physics**, Max Planck Institute for Solar System Research, Germany (2005–2008)  
+- **M.Sc. in Astrophysics**, Universidad de La Laguna, Spain (1999–2004)  
+- **B.A. in Physics**, Universidad de Oviedo, Spain (1999–2003)  
+- **Mirzayan S&T Policy Fellow**, US National Academies of Science (2010)
 
-## Books ##
+**Executive Education**
+- Princeton University — *Leadership in Energy Innovation* (2018)  
+- Harvard Kennedy School — *Global Leadership & Public Policy for the 21st Century* (2017)  
+- Stanford GSB & Stanford Earth — *Transformative Leadership for Sustainability* (2016)  
+- Oxford Saïd Business School — *Transformational Leadership* (2015)  
+- Yale SOM — *Strategic Impact Leadership* (2014)  
 
-* [Impact Science: The science of getting to radical social and environmental breakthroughs](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1). Content also available online at [impactscience.dev](https://impactscience.dev/) (2019)
+---
 
-## Academic Research ##
+## Publications
+- **Book:** [*Impact Science: The Science of Getting to Radical Social and Environmental Breakthroughs*](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1) (2019)  
+  → Full content available online at [impactscience.dev](https://impactscience.dev/)  
+- **Ph.D. Thesis:** *“Observations, Analysis, and Interpretation (non-LTE) of Chromospheric Structures of the Sun”*  
+- 15 peer-reviewed publications | 60+ citations — [Google Scholar](https://scholar.google.com/citations?user=j6dHCcUAAAAJ)
 
-* Ph.D.: "Observations, analysis and interpretation with non-LTE of chromospheric structures of the Sun"
-* Published 15 peer-reviewed papers, receiving 64+ citations. https://scholar.google.com/citations?user=j6dHCcUAAAAJ
+---
 
-## Volunteer Work ##
-* Elected member of the Council for Foreign Residents, Spanish Consulate, Washington DC. (2009-2016)
-* Founding member, ECUSA (Spanish Scientists in the USA). (2015-2016)
-* Project Manager at AEGEE (NGO), with duties both local and European (Treasurer, Secretary, IT, Logistics). (2003-2008)
-* Member of Civil Protection in Gijón, providing Firemen, Ambulance, and Rescue support (2001-2004)
+## Volunteer Work
+- Expert Reviewer — Global Teacher Prize, Earthshot Prize, Several VCs, including "dual use". 
+- Elected Member, Council for Foreign Residents — Spanish Consulate, Washington DC (2009–2016)  
+- Founding Member — ECUSA (Spanish Scientists in the USA) (2015–2016)  
+- Project Manager — AEGEE (European Students’ Forum) (2003–2008)  
+- Civil Protection Volunteer — Gijón Fire & Rescue (2001–2004)  
 
-## Languages ##
+---
 
-* Fluent in English and Spanish.
-* Intermediate proficiency in French.
-* Basic proficiency in German and Danish.
-
-## Additional Skills ##
-
-* Computer programming languages: Python, R, SQL.
-* GIS: ArcGIS, QGIS.
-* Data Science: Machine learning, Natural Language Processing, Data visualization.
-
-## Interests ##
-
-* Climate change and environmental policy.
-* Data science for social good.
-* Space exploration and astronomy.
-* Being a great Dad, Traveling, Science, and outdoor running.
+## Languages
+- **Fluent:** English, Spanish  
+- **Intermediate:** French  
+- **Basic:** German, Danish  
 
 ---
