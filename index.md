@@ -6,7 +6,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño, PhD"
 # Bruno Sánchez‑Andrade Nuño, PhD  
 <brunosan@gmail.com> | [brunosan.eu](http://brunosan.eu)
 
-*Executive leader in AI and global impact with 20+ years’ experience building and scaling data and analytics platforms across industry, government, and non‑profit sectors. Proven track record of translating cutting‑edge research into operational products, leading diverse teams, and delivering responsible AI solutions with measurable business value. From leading enterprise AI transformation inside one of the world’s biggest companies, to raising $15M to expand the frontier of AI for Earth*
+*Executive leader in AI and global impact with 20+ years of experience building and scaling data and analytics platforms across industry, government, and non-profit sectors. Proven track record of translating cutting-edge research into operational products, leading diverse teams, and delivering responsible AI solutions with measurable business value — from driving enterprise-wide AI transformation inside one of the world’s largest companies to raising $15M to push the frontier of AI for Earth with nimble, high-impact teams.*
 
 ---
 enterprise AI transformation inside one of the world’s biggest companies
