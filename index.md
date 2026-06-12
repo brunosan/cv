@@ -4,16 +4,15 @@ title: "CV: Bruno Sánchez-Andrade Nuño, PhD"
 ---
 
 # Bruno Sánchez‑Andrade Nuño, PhD  
-<brunosan@gmail.com> | [brunosan.eu](http://brunosan.eu)
+<brunosan@gmail.com> | [brunosan.eu](https://brunosan.eu) | [LinkedIn](https://www.linkedin.com/in/nasonurb/) | Copenhagen, Denmark | **[Download PDF](/cv.pdf)**
 
-*Executive leader in AI and global impact with 20+ years of experience building and scaling data and analytics platforms across industry, government, and non-profit sectors. Proven track record of translating cutting-edge research into operational products, leading diverse teams, and delivering responsible AI solutions with measurable business value — from driving enterprise-wide AI transformation inside one of the world’s largest companies to raising $15M to push the frontier of AI for Earth with nimble, high-impact teams.*
+*Executive leader in AI and global impact with two decades of experience building and scaling data and analytics platforms across industry, government, and non-profit sectors. Proven track record of translating cutting-edge research into operational products, leading diverse teams, and delivering responsible AI solutions with measurable business value — from driving enterprise-wide AI transformation inside one of the world’s largest companies to raising $15M to push the frontier of AI for Earth with nimble, high-impact teams.*
 
 ---
-enterprise AI transformation inside one of the world’s biggest companies
 
 ## Professional Experience
 
-### [Lgnd.io](https://lgnd.io) — *Co‑Founder & Chief Scientist* (2024–Present)
+### [LGND](https://lgnd.ai) — *Co‑Founder & Chief Scientist* (2024–Present)
 - Building AI to index Earth — making the planet’s data searchable, discoverable and usable.  
 - Raised [$9 M in seed funding](https://techcrunch.com/2025/07/10/lgnd-wants-to-make-chatgpt-for-the-earth/) from top‑tier investors.  
 - Leading the scientific direction of geo‑embedding research and large‑scale AI infrastructure for planetary intelligence.  
@@ -32,7 +31,7 @@ enterprise AI transformation inside one of the world’s biggest companies
 - Authored [*Impact Science*](https://book.impactscience.dev) — a methodology for turning research into measurable environmental and social breakthroughs.  
 - Designed and implemented data‑ and AI‑driven strategies for clients spanning finance, retail, telecom and government, managing multi‑million‑dollar budgets and distributed teams to deliver measurable outcomes.
 
-### [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com) — *Program Director & Principal Scientist* (2020–2022)
+### [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com) — *Program Director & Principal Scientist* (2020–2023)
 - Founded and directed the creation of Microsoft’s Planetary Computer, from strategy to engineering execution.  
 - Oversaw hiring, partnerships and budget for the global AI for Earth platform.  
 - Managed the transition and sunset of the $50 M+ “AI for Earth” program.  
@@ -60,9 +59,19 @@ enterprise AI transformation inside one of the world’s biggest companies
 - Led development of the Global Adaptation Index (GAIN) for climate resilience assessment.  
 - Visiting Scholar at the Environmental Change Initiative, University of Notre Dame.
 
+- The index continues today as [ND-GAIN](https://gain.nd.edu/our-work/country-index/) at the University of Notre Dame — a reference index for climate vulnerability and adaptation readiness.
 ### [US Naval Research Laboratory](http://www.nrl.navy.mil/) — *NASA Contractor & Research Assistant Professor* (2008–2010)
 - Worked in the Space Science Division on satellite and rocket missions.  
 - Specialized in calibration, data analysis and scientific visualization.
+
+---
+
+## Boards & Advisory
+- **[Clay](https://madewithclay.org)** (non-profit) — Founder & Executive Director: built the organization and its governance, working with its Board of Directors (2023–Present)
+- **Climate & deep tech funds** — Technical due diligence and retained advisory on earth observation and geo-AI investments ([details](https://brunosan.eu/advisory/))
+- **Sovereign AI strategy** — National AI and competitiveness policy; past clients include the UAE and a Big Three consultancy
+- **[Mapbox](https://www.mapbox.com)** — Investor; Science Advisor (2015–2020)
+- **Earthshot Prize & Global Teacher Prize** — Expert reviewer
 
 ---
 
@@ -73,6 +82,7 @@ enterprise AI transformation inside one of the world’s biggest companies
 - **Mirzayan S&T Policy Fellow**, US National Academies of Science (2010)
 
 **Executive Education**
+
 - Princeton University — *Leadership in Energy Innovation* (2018)  
 - Harvard Kennedy School — *Global Leadership & Public Policy for the 21st Century* (2017)  
 - Stanford GSB & Stanford Earth — *Transformative Leadership for Sustainability* (2016)  
