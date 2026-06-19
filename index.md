@@ -34,7 +34,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño, PhD"
 ### [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com) — *Program Director & Principal Scientist* (2020–2023)
 - Founded and directed the creation of Microsoft’s Planetary Computer, from strategy to engineering execution.  
 - Oversaw hiring, partnerships and budget for the global AI for Earth platform.  
-- Managed the transition and sunset of the $50 M+ “AI for Earth” program.  
+- Led an organization of ~50 FTE and steered the transition of the broader AI for Earth program.  
 - Led the architectural design and deployment of a cloud‑scale AI platform used by researchers, commercial entities and NGOs, integrating responsible AI frameworks and ensuring compliance with governance policies.  
 - Oversaw a global team of experts across Europe, Asia and the Americas.
 
@@ -45,7 +45,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño, PhD"
 
 ### [World Bank](http://blogs.worldbank.org/voices/big-data-davos-year-later-delivering-innovation-value) — *Data Scientist, Innovation Labs* (2015–2017)
 - Led technical operations for global big‑data programs across multiple regions.  
-- Managed a 20‑project portfolio totaling over $500 M in innovation initiatives.  
+- Worked across a 20‑project innovation portfolio representing over $500 M in development initiatives.  
 - Served in the President’s Delivery Unit and advised senior leadership on data‑driven development.  
 - Executed transformation projects that delivered data‑driven insights across global operations, working with cross‑functional teams and diverse stakeholders.
 
