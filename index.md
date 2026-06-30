@@ -34,7 +34,7 @@ title: "CV: Bruno Sánchez-Andrade Nuño, PhD"
 ### [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com) — *Program Director & Principal Scientist* (2020–2023)
 - Founded and directed the creation of Microsoft’s Planetary Computer, from strategy to engineering execution.  
 - Oversaw hiring, partnerships and budget for the global AI for Earth platform.  
-- Led an organization of ~50 FTE and steered the transition of the broader AI for Earth program.  
+- Led an organization of ~50 FTE and steered the transition of the broader $50 M+ “AI for Earth” program into the Planetary Computer.  
 - Led the architectural design and deployment of a cloud‑scale AI platform used by researchers, commercial entities and NGOs, integrating responsible AI frameworks and ensuring compliance with governance policies.  
 - Oversaw a global team of experts across Europe, Asia and the Americas.
 
